@@ -1,0 +1,924 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-eYhUAIv4O/68uoHkCtYXVTxc5Q92+NKMtOryYR5Svt7vDp34XkrggN5j4lrKyiB0B2HUyrAYvAb3tlhmFGhivg==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-592c4aa40e940d1b0607a3cf272916ff.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-LUrF+o8wSTstABZwkJhSTy+PQCtGPf92OmcqBwdTsQyKTZ3JTXFyiTiLtXX2/PUT7ofgLcU5FNcBN7E+RQlWGQ==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-96ebb1551fc5dba84c6d2a0fa7b1cfcf.css" />
+  
+  
+  
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>Intro-Data-Science-Fall-2017/2003-06-17_5.txt at gh-pages · lydiahsu/Intro-Data-Science-Fall-2017</title>
+    <meta name="description" content="GitHub is where people build software. More than 27 million people use GitHub to discover, fork, and contribute to over 80 million projects.">
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/16928737?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="lydiahsu/Intro-Data-Science-Fall-2017" /><meta property="og:url" content="https://github.com/lydiahsu/Intro-Data-Science-Fall-2017" /><meta property="og:description" content="Contribute to Intro-Data-Science-Fall-2017 development by creating an account on GitHub." />
+
+  <link rel="assets" href="https://assets-cdn.github.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjY2NTIzMzM3OjU5YWQxYzI5ODU0YWJmN2UwMzdiMmEyMTM0ZTAwOWM0ZWRjZGU2NzgwYzlkYjFkZmRiYzRiOGQ3MjUyZTdjZTQ=--f2cca802a5cb630a082349947efd54e9effd837c">
+  <meta name="pjax-timeout" content="1000">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+  <meta name="request-id" content="EC1B:248B:1671BE7:2A65937:5AD21DFF" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="EC1B:248B:1671BE7:2A65937:5AD21DFF" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="35414964" /><meta name="octolytics-actor-login" content="aniruddhamurali" /><meta name="octolytics-actor-hash" content="244a7969d58e48da3f4a43530368524ae4f1a572bd6308c96a33da5a468756e4" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="aniruddhamurali">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="NjJhYzEwMmNiYjBmOGY3ZTM4OTY1MmFkOTBkMGUyZGZlMzAwNTZhMjAzMTNlMTM2YjA5MjYzMzZmNGFjZGMzNXx7InJlbW90ZV9hZGRyZXNzIjoiMTYwLjM5LjIxMi4xNDQiLCJyZXF1ZXN0X2lkIjoiRUMxQjoyNDhCOjE2NzFCRTc6MkE2NTkzNzo1QUQyMURGRiIsInRpbWVzdGFtcCI6MTUyMzcxOTY4MywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
+
+  <meta name="html-safe-nonce" content="179ce37c1c638f058bf09d07eb041e64409851b6">
+
+  <meta http-equiv="x-pjax-version" content="89a4b3d4dd5891451d8dc82a0d6030b7">
+  
+
+      <link href="https://github.com/lydiahsu/Intro-Data-Science-Fall-2017/commits/gh-pages.atom" rel="alternate" title="Recent Commits to Intro-Data-Science-Fall-2017:gh-pages" type="application/atom+xml">
+
+  <meta name="description" content="Contribute to Intro-Data-Science-Fall-2017 development by creating an account on GitHub.">
+  <meta name="go-import" content="github.com/lydiahsu/Intro-Data-Science-Fall-2017 git https://github.com/lydiahsu/Intro-Data-Science-Fall-2017.git">
+
+  <meta name="octolytics-dimension-user_id" content="16928737" /><meta name="octolytics-dimension-user_login" content="lydiahsu" /><meta name="octolytics-dimension-repository_id" content="103312055" /><meta name="octolytics-dimension-repository_nwo" content="lydiahsu/Intro-Data-Science-Fall-2017" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="103312055" /><meta name="octolytics-dimension-repository_network_root_nwo" content="lydiahsu/Intro-Data-Science-Fall-2017" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/lydiahsu/Intro-Data-Science-Fall-2017/blob/gh-pages/text_data/txt/2003-06-17_5.txt" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets-cdn.github.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <meta name="u2f-support" content="true">
+
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-in env-production emoji-size-boost page-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+
+        
+<header class="Header  f5" role="banner">
+  <div class="d-flex flex-justify-between px-3 container-lg">
+    <div class="d-flex flex-justify-between ">
+      <div class="">
+        <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <svg height="32" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+
+      </div>
+
+    </div>
+
+    <div class="HeaderMenu d-flex flex-justify-between flex-auto">
+      <div class="d-flex">
+            <div class="">
+              <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scoped-search-url="/lydiahsu/Intro-Data-Science-Fall-2017/search" data-unscoped-search-url="/search" action="/lydiahsu/Intro-Data-Science-Fall-2017/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <label class="form-control header-search-wrapper  js-chromeless-input-container">
+          <a class="header-search-scope no-underline" href="/lydiahsu/Intro-Data-Science-Fall-2017/blob/gh-pages/text_data/txt/2003-06-17_5.txt">This repository</a>
+      <input type="text"
+        class="form-control header-search-input  js-site-search-focus js-site-search-field is-clearable"
+        data-hotkey="s,/"
+        name="q"
+        value=""
+        placeholder="Search"
+        aria-label="Search this repository"
+        data-unscoped-placeholder="Search GitHub"
+        data-scoped-placeholder="Search"
+        autocapitalize="off"
+        >
+        <input type="hidden" class="js-site-search-type-field" name="type" >
+    </label>
+</form></div>
+
+            </div>
+
+          <ul class="d-flex pl-2 flex-items-center text-bold list-style-none" role="navigation">
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
+                Pull requests
+</a>            </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
+                Issues
+</a>            </li>
+                <li>
+                  <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-selected-links=" /marketplace" href="/marketplace">
+                    Marketplace
+</a>                </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+                Explore
+</a>            </li>
+          </ul>
+      </div>
+
+      <div class="d-flex">
+        
+<ul class="user-nav d-flex flex-items-center list-style-none" id="user-links">
+  <li class="dropdown js-menu-container">
+    <span class="d-inline-block  px-2">
+      
+    <a aria-label="You have no unread notifications" class="notification-indicator tooltipped tooltipped-s  js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:read" data-channel="notification-changed:35414964" href="/notifications">
+        <span class="mail-status "></span>
+        <svg class="octicon octicon-bell" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 12v1H0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1 .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.11 0 2-.89 2-2H5c0 1.11.89 2 2 2z"/></svg>
+</a>
+    </span>
+  </li>
+
+  <li class="dropdown js-menu-container">
+    <details class="dropdown-details details-reset js-dropdown-details d-flex px-2 flex-items-center">
+      <summary class="HeaderNavlink"
+         aria-label="Create new…"
+         data-ga-click="Header, create new, icon:add">
+        <svg class="octicon octicon-plus float-left mr-1 mt-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5z"/></svg>
+        <span class="dropdown-caret mt-1"></span>
+      </summary>
+
+      <ul class="dropdown-menu dropdown-menu-sw">
+        
+<a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+  <a class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
+    Import repository
+  </a>
+
+<a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
+  New gist
+</a>
+
+  <a class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="lydiahsu/Intro-Data-Science-Fall-2017">This repository</span>
+  </div>
+    <a class="dropdown-item" href="/lydiahsu/Intro-Data-Science-Fall-2017/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
+
+      </ul>
+    </details>
+  </li>
+
+  <li class="dropdown js-menu-container">
+
+    <details class="dropdown-details details-reset js-dropdown-details d-flex pl-2 flex-items-center">
+      <summary class="HeaderNavlink name mt-1"
+        aria-label="View profile and more"
+        data-ga-click="Header, show menu, icon:avatar">
+        <img alt="@aniruddhamurali" class="avatar float-left mr-1" src="https://avatars0.githubusercontent.com/u/35414964?s=40&amp;v=4" height="20" width="20">
+        <span class="dropdown-caret"></span>
+      </summary>
+
+      <ul class="dropdown-menu dropdown-menu-sw">
+        <li class="dropdown-header header-nav-current-user css-truncate">
+          Signed in as <strong class="css-truncate-target">aniruddhamurali</strong>
+        </li>
+
+        <li class="dropdown-divider"></li>
+
+        <li><a class="dropdown-item" href="/aniruddhamurali" data-ga-click="Header, go to profile, text:your profile">
+          Your profile
+        </a></li>
+        <li><a class="dropdown-item" href="/aniruddhamurali?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">
+          Your stars
+        </a></li>
+          <li><a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, your gists, text:your gists">Your gists</a></li>
+
+        <li class="dropdown-divider"></li>
+
+        <li><a class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">
+          Help
+        </a></li>
+
+        <li><a class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">
+          Settings
+        </a></li>
+
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dGBI+ep/e1SHYX/YmL2PdUlt+js8nh89VFge3Ym4B4mx//lSZzwsG/D4s7UNBwXcom9JG83qgfWPDtudt1dQEg==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+        </form></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+
+
+
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="b6BHXWg/0+MiWh+7RUumyaN2FNiAY6BmXzvxMYx4FFyqP/b25XyErFXD09bQ8SxgSHSn+HEXPq6EbTRxspdDxw==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </div>
+</header>
+
+      
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+</div>
+
+
+
+  <div role="main" class="application-main ">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <div id="js-repo-pjax-container" data-pjax-container >
+      
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+    <div class="repohead-details-container clearfix container">
+
+      <ul class="pagehead-actions">
+  <li>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xE41yX+aEIu8pKCXyfyXrQJuS9HN8oqgtRC5TMocoAvHhN3Il32plrtql9UB3yJkROd51EBh7Kodr55WZFnfIg==" />      <input type="hidden" name="repository_id" id="repository_id" value="103312055" class="form-control" />
+
+        <div class="select-menu js-menu-container js-select-menu">
+          <a href="/lydiahsu/Intro-Data-Science-Fall-2017/subscription"
+            class="btn btn-sm btn-with-count select-menu-button js-menu-target"
+            role="button"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-label="Toggle repository notifications menu"
+            data-ga-click="Repository, click Watch settings, action:blob#show">
+            <span class="js-select-button">
+                <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                Watch
+            </span>
+          </a>
+          <a class="social-count js-social-count"
+            href="/lydiahsu/Intro-Data-Science-Fall-2017/watchers"
+            aria-label="2 users are watching this repository">
+            2
+          </a>
+
+        <div class="select-menu-modal-holder">
+          <div class="select-menu-modal subscription-menu-modal js-menu-content">
+            <div class="select-menu-header js-navigation-enable" tabindex="-1">
+              <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+              <span class="select-menu-title">Notifications</span>
+            </div>
+
+              <div class="select-menu-list js-navigation-container" role="menu">
+
+                <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_included" value="included" checked="checked" />
+                    <span class="select-menu-item-heading">Not watching</span>
+                    <span class="description">Be notified when participating or @mentioned.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                      Watch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_subscribed" value="subscribed" />
+                    <span class="select-menu-item-heading">Watching</span>
+                    <span class="description">Be notified of all conversations.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                        Unwatch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_ignore" value="ignore" />
+                    <span class="select-menu-item-heading">Ignoring</span>
+                    <span class="description">Never be notified.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-mute" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"/></svg>
+                        Stop ignoring
+                    </span>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+</form>
+  </li>
+
+  <li>
+    
+  <div class="js-toggler-container js-social-container starring-container ">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/lydiahsu/Intro-Data-Science-Fall-2017/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2p+rhI5Vis4Ep51xZof/xLpTyZ5fZs6E3doeyrWxSCTTYgmfo5Iut2fTkx3+HF24KZpCp2efN53dIFa7aTcv1g==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Unstar this repository" title="Unstar lydiahsu/Intro-Data-Science-Fall-2017"
+        data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+        Unstar
+      </button>
+        <a class="social-count js-social-count" href="/lydiahsu/Intro-Data-Science-Fall-2017/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/lydiahsu/Intro-Data-Science-Fall-2017/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hXJhU7chQC7Gpfx8TbvjHeRhxeYwAM9XyGSinedI7Oa5tV0jcR/XvkNHW9R7Ot/rEIgkZu38oTExfF/SzWB96Q==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Star this repository" title="Star lydiahsu/Intro-Data-Science-Fall-2017"
+        data-ga-click="Repository, click star button, action:blob#show; text:Star">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+        Star
+      </button>
+        <a class="social-count js-social-count" href="/lydiahsu/Intro-Data-Science-Fall-2017/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>  </div>
+
+  </li>
+
+  <li>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/lydiahsu/Intro-Data-Science-Fall-2017/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HDt6ZO/4Vomg+hG5SdfpW1Dbqiy+rmV87OTlJH4qrP1UgAoAgJlqTljM9KLAT0zbgNvxPX15qf6rxmKE+RkNJA==" />
+            <button
+                type="submit"
+                class="btn btn-sm btn-with-count"
+                data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
+                title="Fork your own copy of lydiahsu/Intro-Data-Science-Fall-2017 to your account"
+                aria-label="Fork your own copy of lydiahsu/Intro-Data-Science-Fall-2017 to your account">
+              <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+              Fork
+            </button>
+</form>
+    <a href="/lydiahsu/Intro-Data-Science-Fall-2017/network" class="social-count"
+       aria-label="0 users forked this repository">
+      0
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/lydiahsu">lydiahsu</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/lydiahsu/Intro-Data-Science-Fall-2017">Intro-Data-Science-Fall-2017</a></strong>
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /lydiahsu/Intro-Data-Science-Fall-2017/tree/gh-pages" href="/lydiahsu/Intro-Data-Science-Fall-2017/tree/gh-pages">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /lydiahsu/Intro-Data-Science-Fall-2017/issues" href="/lydiahsu/Intro-Data-Science-Fall-2017/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /lydiahsu/Intro-Data-Science-Fall-2017/pulls" href="/lydiahsu/Intro-Data-Science-Fall-2017/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">0</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /lydiahsu/Intro-Data-Science-Fall-2017/projects" href="/lydiahsu/Intro-Data-Science-Fall-2017/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /lydiahsu/Intro-Data-Science-Fall-2017/wiki" href="/lydiahsu/Intro-Data-Science-Fall-2017/wiki">
+      <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+      Wiki
+</a>
+
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /lydiahsu/Intro-Data-Science-Fall-2017/pulse" href="/lydiahsu/Intro-Data-Science-Fall-2017/pulse">
+    <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+    Insights
+</a>
+
+</nav>
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+  <div class="repository-content ">
+
+    
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lydiahsu/Intro-Data-Science-Fall-2017/blob/e1fb5960e035e4dd1a0cc0a1fb3bc3ce0ed54cf2/text_data/txt/2003-06-17_5.txt">Permalink</a>
+
+  <!-- blob contrib key: blob_contributors:v21:b71d3cd148e8e3aaab34337e3e4268ce -->
+
+  <div class="file-navigation">
+    
+<div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
+  <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    
+    type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
+      <i>Branch:</i>
+      <span class="js-select-button css-truncate-target">gh-pages</span>
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+        <span class="select-menu-title">Switch branches/tags</span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/lydiahsu/Intro-Data-Science-Fall-2017/blob/gh-pages/text_data/txt/2003-06-17_5.txt"
+               data-name="gh-pages"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                gh-pages
+              </span>
+            </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+               href="/lydiahsu/Intro-Data-Science-Fall-2017/blob/master/text_data/txt/2003-06-17_5.txt"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                master
+              </span>
+            </a>
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <div class="BtnGroup float-right">
+      <a href="/lydiahsu/Intro-Data-Science-Fall-2017/find/gh-pages"
+            class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+            data-pjax
+            data-hotkey="t">
+        Find file
+      </a>
+      <clipboard-copy
+            for="blob-path"
+            aria-label="Copy file path to clipboard"
+            class="btn btn-sm BtnGroup-item tooltipped tooltipped-s"
+            copied-label="Copied!">
+        Copy path
+      </clipboard-copy>
+    </div>
+    <div id="blob-path" class="breadcrumb">
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/lydiahsu/Intro-Data-Science-Fall-2017/tree/gh-pages"><span>Intro-Data-Science-Fall-2017</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/lydiahsu/Intro-Data-Science-Fall-2017/tree/gh-pages/text_data"><span>text_data</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/lydiahsu/Intro-Data-Science-Fall-2017/tree/gh-pages/text_data/txt"><span>txt</span></a></span><span class="separator">/</span><strong class="final-path">2003-06-17_5.txt</strong>
+    </div>
+  </div>
+
+
+  <include-fragment src="/lydiahsu/Intro-Data-Science-Fall-2017/contributors/gh-pages/text_data/txt/2003-06-17_5.txt" class="commit-tease">
+    <div>
+      Fetching contributors&hellip;
+    </div>
+
+    <div class="commit-tease-contributors">
+      <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+      <span class="loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment>
+
+
+  <div class="file">
+    <div class="file-header">
+  <div class="file-actions">
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/lydiahsu/Intro-Data-Science-Fall-2017/raw/gh-pages/text_data/txt/2003-06-17_5.txt">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/lydiahsu/Intro-Data-Science-Fall-2017/blame/gh-pages/text_data/txt/2003-06-17_5.txt">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/lydiahsu/Intro-Data-Science-Fall-2017/commits/gh-pages/text_data/txt/2003-06-17_5.txt">History</a>
+    </div>
+
+        <a class="btn-octicon tooltipped tooltipped-nw"
+           href="x-github-client://openRepo/https://github.com/lydiahsu/Intro-Data-Science-Fall-2017?branch=gh-pages&amp;filepath=text_data%2Ftxt%2F2003-06-17_5.txt"
+           aria-label="Open this file in GitHub Desktop"
+           data-ga-click="Repository, open with desktop, type:mac">
+            <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
+        </a>
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/lydiahsu/Intro-Data-Science-Fall-2017/edit/gh-pages/text_data/txt/2003-06-17_5.txt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3U1OyMxw1ysVtXJ7tKkSXiKSILVcHlHzqUfASBVBLWp/nVbiNoclzvIDliq9eMt2ETX5YcUtW9uv++EuZ0NdGA==" />
+            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+              aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
+              <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+            </button>
+</form>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/lydiahsu/Intro-Data-Science-Fall-2017/delete/gh-pages/text_data/txt/2003-06-17_5.txt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+Q6HtMwdtB5pfAqko6YzBkqljO98xwFzm1bmaBP5Sasjj+mGspVQuwCd2D3Jx6r7h4NLmCYb7ASbNg8wKlANrw==" />
+          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+            aria-label="Fork this project and delete the file" data-disable-with>
+            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+          </button>
+</form>  </div>
+
+  <div class="file-info">
+      1246 lines (967 sloc)
+      <span class="file-info-divider"></span>
+    34.1 KB
+  </div>
+</div>
+
+    
+
+  <div itemprop="text" class="blob-wrapper data type-text">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">﻿2 So you are talking about , if3 somebody moves out of an apartment in the  Bronx4 or in Brooklyn, 50 to 60 percent increases   for5 the next tenant that moves into the  apartment.6 Apartments that used to rent  for7 $600 and $650 a month, one-bedroom apartments  I&#39;m8 talking about in Brooklyn and the Bronx, are   now9 renting for $900 a month, two- bedroom apartments10 $1200 and $1300 a month. This is for people  that11 bring home $600 every two weeks.  Okay?12 And with 5.5 and 8.5 percent13 increases, they can&#39;t afford their rents now.  How14 are they going to afford their  rents?15 They&#39;re already in Housing  Court16 and I&#39;m trying to prevent their evictions on   a17 daily basis. And , you know, everybody focuses  on18 Manhattan. You have to think about the rest   of19 the City of New York.20 CHAIRMAN MARKUS:	Thank you.21 (Audience participation.)22 MS. PATRICIA BAKER:	My name is23 Patricia Baker.24 As the bar against which  the25 most expensive cities in the world to live  are2 </td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">2 mentioned, New York was rated at 100 . Anything3 over there was like 136.4 People ask me why I&#39;m thin. I5 say it &#39;s because I pay rent in New York City.6 Suddenly it &#39;s not far from the truth.7 When one has to pay an8 inordinate amount of their income towards  rent9 for housing, it doesn&#39; t leave much else for10 basics such as food, utilities and  clothing.11 The cost of just about12 everything in New York City is going up and  yet13 with the economy too often our salaries  don&#39;t.14 This puts us in even more of a pinch .15 We must have vacancy  decontrol16 and the twenty percent vacancy  allowance17 overturned and the Urstadt Law repealed, not  only18 for the current generations in this great  City,19 but for future ones as well.20 Where are the new college21 graduates, the future lifeblood of our  existence22 as a driving power for a global city, going  to23 live if these apartments are  lost?24 I strongly urge y ou  all to25 strengthen these laws as indicated and to do  what2 </td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">2 is best for the real people who helped to  make3 the City and State economy  hum.4 Thank you.5	CHAIRMAN MARKUS:	Thank you.6	(Audience participat ion.)7	MS. DAWN JONES:	Good evening.8 My name is Dawn Jones and  I&#39;m9 Recording  Secretary of the Lenox Terrace10 Association  of Concerned  Citizens, representing11 rent stabilized tenants of 10 West 135th  Street12 in Harlem.13 I am here today to voice  my14 strong opposition to a rent increase of New  York15 City rent stabilized  units.16 My situation is I&#39;m a  thirteen-17 year City employee, member of Local 371 DC 37,18 whose income is approximat ely $36,000 a year.  My19 rent is now $875 a month, up from $825 that   I20 paid last year.21 I use the majority of my  income22 to pay my rent and it takes two paychecks to  meet23 this bill. I live on a fixed income and pay  one-24 third of my income for  rent.25 This is a similar situation  of8 </td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">2 my neighbors. It is difficult for my neighbors   to3 pay high rents. Rents are going up in my  building4 and neighborhood.5 The previous tenant paid  $4006 and I have been back and forth with  DHCR.7 Rent freeze now and roll  back8 rents. I urge the Board to reject the proposed  59 and 8.5 percent guidelines and vote to roll  back10 rents, or at least for no rent increase of  any11 kind for one and two-year  leases.12 I further urge the Board to  do13 the same as the previous year when  they14 eliminated the poor tax, an extra $15 per  month15 for apartments renting for $500 or less,  which16 the landlord can collect on top of the  percentage17 guideline, and reject any landlord proposal for   a18 longevity tax, an extra rent hike for long- term19 tenants.20 My building has been double  hit21 with Major Capital rent hikes. I remind you   that22 MCis are compounded with lease renewal  rent23 hikes. We had won our decision,  however,24 management  has now appealed. They fixed my25 terrace and it looks  - -2 </td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">1	6052 CHAIRMAN MARKUS:	You have to3 wrap up now.4	MS. DAWN JONES:	Okay. I5 certainly will.6 - - and there is now a crack  in7 my terrace and non- union workers were there to8 repair a roof that has been in disrepair  for9 thirty years. And we had an inflated rat in  front10 of our building.11 Finally, my building	is pretty12 well maintained, however, the bedroom ceiling   and13 floors are cracking in my bathroom and  bedroom.14 And they have failed to make necessary  repairs.15 When I call for repairs and take off a day   from16 work, I am told that they cannot fix it  until17 management  examines it.18 I have made several attempts  to19 correct the situation. Obviously, I cannot   afford20 to keep taking off from  work.21 I feel harassed by22 CHAIRMAN MARKUS:	You need to23 wrap up.24 MS. DAWN JONES:	Okay. My last25 sentence - -5 </td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">2 CHAIRMAN MARKUS:	You tell me3 okay every time but you don&#39; t.4	MS. DAWN JONES:	My last5 sentence.6 I feel harassed by the  landlord7 when he constantly sends me court notices  and8 warnings because they lost one month&#39; s rent and  I9 was able to trace it and prove to the  uptown10 off ice that it &#39;s been cashed.11 I keep going back and forth  with12 the money order company to fill in documents  and13 have sent it to the landlord and it has not   been14 communicat ed to the downtown office.15 Stronger rent laws now .16 CHAIRMAN MARKUS:	Thank you.17 (Audience participation.)18 CHAIRMAN MARKUS:	Go ahead.19 MS. PATRICIA SALLIN:	H ,  I20 My name is Patricia Sallin and  I21 live in Stuyvesant Town.22 I work for an investment23 management	company as a portfolio  administrator.24 I received a four percent  raise25 at work in 2000. Then the market soured and   I5 </td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">2 didn&#39; t get a raise in 2001 or in 2002. Even3 though the market is improving these days, it &#39;s4 too little too late and we are losing clients.  I5 don&#39;t expect to get a raise this year  either.6 During the past three years  I7 signed a two-year lease at 6 percent , my weekly8 commute has increased twenty- five percent and I9 now pay 8.625 percent tax on clothing and  shoes.10 Thank God I quit smoking in  1979.11 Last year the Housing and12 Vacancy Survey showed the landlords had  a13 decrease in expenses of 1.6 percent , yet you14 granted them increases of 2 percent and  415 percent.16 This year the report shows they17 had increased expenses and they also  had18 increased  profits.  Well , my  expenses increased19 also, but I&#39;m not going to get an increase  in20 income to cover my expenses.21 I think my  landlord , MetLife,22 should get exactly what I&#39;ve gotten in the  past23 two years and expect again this year -  nothing.24 Thank you .25 CHAIRMAN MARKUS:	Thank you.2 </td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">2 (Audience participation.)3 MS. MARY GAFFNEY:	My name is4 Mary Gaffney and I live in Stuyvesant Town  also,5 which is owned by MetLife, who has turned  over6 many renovated apartments to NYU students  as7 dormitories.8 I&#39;m a semi - retired senior9 citizen. Four years ago when I retired I  figured10 my expenses over an extended period of time  and11 included some what I thought were  generous12 incremental increases in my projected cost  of13 living.14 Today these project ions have15 been  severely compromised.  The part - time job I16 took two years ago, which I really didn&#39; t need17 then, now has become a necessary part of  my18 income.19 I don&#39;t know how long I &#39;ll be20 able to do the part - time work, what with the21 aging process and the fear of not being able  to22 support myself until my inevitable  demise.23 A very large part of my  expenses24 is rent. I take a two-year lease because in  the25 long run it is more economical. An 8.5  percent4 </td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">2 increase would be a huge bite out of my  income3 and my savings.4 It has been argued that  rent5 control/stabilization guidelines are a means  to6 subsidize our cost of living by those  tenants7 paying exorbitant rents. When these  guidelines8 were put into place some sixty years ago by  the9 Of fice of Price Administration,	they were10 necessary because the breadwinners of so  many11 families were drafted into the armed forces  and12 their families&#39; income was severely  compromised.13 All of these price controls  were14 removed with the exception of rent controls   after15 World War II. I really cannot view rent laws  at16 this point in time after so many years as my  bit17 for subsidizing my cost of  living.18 Rent laws have become  an19 integral part of New York City life.  Rental20 apartment buildings have been built in the  50s,21 60s, 70s and 80s in spite of rent laws,  meaning,22 of course, rentals were  profitable.23 If we cannot or will not24 preserve middle- income housing in the City, it25 will become a city of commerce of the very  poor,2 </td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">2 of the very rich and NYU students whose  parents3 pay the rent .4 (Audience part icipat ion.)5	MS. MARY GAFFNEY:	The middle6 class will have to look for its housing  outside7 City limits. Our elderly population will find   it8 extremely difficult to give up what are  their9 homes, to pick up and move away and start   their10 lives all over again.11 Please do what you can.12 Thank you.13 CHAIRMAN MARKUS:	Thank you.14 (Audience participation.)15 MS. ALEXANDRA ROSE:	My name is16 Alexandra Rose and I&#39;m here to talk for   tenants&#39;17 rights.18 First of all , I would like to19 say that there is a program I&#39;ve been told  where20 everybody can talk about their problems,  tenants&#39;21 problems, which is WBAI 99.5 FM every  Monday22 night at eight p.m. So don&#39; t forget. You can  call23 them and tell them your  problems.24 The other thing I&#39;m  saying,25 these high- rent increases lead too fast to  too6 </td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">1	6112 many apartments being destabilized. And  once3 they&#39; re destabilized ,  the  landlords charge4 astronomical rents.5 How can young people just out  of6 college with large college loans to pay,  others7 who could not even go to college and  with8 starting jobs, how can they pay for  these9 amazingly high rents?10 How can young couples start  a11 family with such high rents?12 We will end up with an  exodus13 from the City and the City cannot afford  this.14 Already rents for stores have soared so much   that15 you&#39; ll find three or four stores closed on each16 block. So I ask you, please, do not do  these17 astronomical  rent hikes.18 CHAIRMAN MARKUS:	Thank you.19 (Audience participation .)20 MS. LING FANG:	Hello!21 CHAIRMAN MARKUS:	Hold on one22 second.23 Go ahead.24 MS. LING FANG:	My name is Ling25 Fang.2 </td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">What &#39;s yourLing Fang.Ling Fang. GoYes.8 I&#39;m an organizer and member  of9 Chinatown Justice Project of CAAAV  Organizing10 Asian Communities.11 Tenants are being displaced12 everywhere and more and more people are  being13 squeezed into extremely overcrowded  conditions.14 The main reason for this problem is the rent  goes15 up every year but our wages stay the  same.16 In the Chinatown Justice17 Project , we, the young people of Chinatown,18 organize low- income tenants who face evictions19 from their landlords. We see that many  tenants20 are being kicked out by their landlords.  After21 the landlord kicks them out , he starts to22 renovate apartments, and then he rents them  to23 high or middle- income tenants and then raises  the24 rent double or triple.25 I believe this kind of rent8 </td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">16132increaseis illegal , but the City does nothing3about itand lets the landlord get away with  it.4The City watches quietly  while5 we are losing low- income housing all over New6 York City. City off icials must take action. One7 way to solve the housing problem in New York   City8 is to decrease rents and increase wages .9 We strongly urge the Rent10 Guidelines Board to vote for a zero  percent11 increase this year. We need you to do the  right12 thing for New York City. We need stronger  rent13 laws for tenants.14Thank you.15(Audience part icipation. )16CHAIRMAN MARKUS:	Thank you.17MS. HELAIN GOLD:	My name is18Helain Gold.Iwas unprepared to19CHAIRMAN MARKUS:	What &#39;s your20first name?21MS. HELAIN GOLD:	Helain.22CHAIRMAN MARKUS:	Helain Gold.23Okay.24MS. HELAIN GOLD:	Helain, H- e-251-a- i - n.</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">2 CHAIRMAN MARKUS:	Helain . Okay.3 Thank you.4	MS. HELAIN GOLD:	I wasn&#39; t5 planning to speak this evening but because  a6 friend of mine who was going to speak was  not7 able to speak because, even though he put in   an8 early number, he wasn&#39; t gotten to.9	I&#39;m speaking for the  elderly.10 I&#39;m speaking for the disabled. I&#39;m speaking   for11 the unemployed.  I&#39;m speaking for moderate  income12 people like myself and I&#39;m also speaking for   the13 policemen who you see here, who take care of   us,14 and I&#39;m speaking for the firemen who lost   lives15 in 9/11 and who also take care of us and  protect16 our streets and prot ect our homes from fire.17 The police and the fire18 department by and large cannot afford to live   in19 New York City, nor Manhattan, nor Queens.   They20 have to live out on the Island which makes   for21 them a very, very large commute in order to   even22 get into the City.23 And people who have read  any24 stories about 9/11 are aware, they are aware   that25 police and fire people came from all the way  out10 </td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">2 on the Island where they live in order to help us3 out.4	The elderly, the peopl e who are5 disabled, the people who are living on a  fixed6 income cannot afford to pay these kinds  of7 increases. In the last two years there have  been8 enormous decreases in jobs, in employment , and9 now this severe recession going on.10 I ask you to please consider  all11 of this when you make your determination of   the12 increase in rents.13 CHAIRMAN MARKUS:	Thank you.14 (Audience participation.)15 MR. TOM NONNON:	Hi! My name is16 Tom Nonnon.17 I believe that unless the  RGB18 lowers the already proposed percentages,  you&#39;ll19 drastically alter the face and consist ency of20 those living in New York  City.21 My wife and I are actors  with22 survivor jobs living in Stuyvesant Town. The   week23 of 9/11 terminated my wife&#39; s survivor job,24 cutting our income by a third. The years   since25 9/11 have terminat ed much film work in New York5 </td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">2 City. The result is many actors living in  New3 York City, which call this home, have  lost4 survival jobs, as did my wife, in addition  to5 losing health eligibility and having to pick  up6 COBRA costs in addition, if availabl e.7 Your proposals and past8 proposals have moved towards what landlords   would9 call market value rates. But I ask what  does10 market value consist of in New York  City.11 Stuy Town and Peter  Cooper12 Village have managed  in recent years to get MCI13 approvals on what should be considered  basic14 housing, such as roofs, through DHCR. Now15 landlords are asking for additional justification16 to put additional passalongs when the last   few17 years&#39; increases were much higher than the  cost18 of living.19 Back to my quest ion of market20 value in New York City and the compet ition of  the21 working class. Who are our competition? In22 Stuyvesant Town, one mile from the UN,  the23 international workers who come and work here   are24 not paying their own rents. Their countries  are.25 And MetLife and the landlords will welcome   using2 </td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">2 these apartments through luxury decontrol  because3 they can afford to pay almost  anything.4 I may feel for the  landlords5 regarding taxes and insurance, but the  Federal6 government should be fixing that , not taxing  the7 New York City working class. The US  government8 points to New York City and 9/11 as a symbol   to9 wage war, but are faster to bail out states   where10 people live in areas where flooding happens year11 in and year out instead of moving to  where12 flooding happens  less frequently.13 Turn down the increase, force14 George Pataki to allow a commuter tax and  force15 George Bush to give a bett er resolution to  the16 tax- insurance debacle that has occurred since17 9/11 and put  it back  - -  instead of putting it18 back on the un- and underemployed New York  City19 mid and lower- income workers.20 CHAIRMAN MARKUS:	Thank you.21 MR. TOM NONNON:	Please turn it22 down.23 CHAIRMAN MARKUS:	Thank you.24 (Audience participation. )25 CHAIRMAN MARKUS:	Next.2 </td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">2 MR. SAM JONES:	My name is Sam3 Jones. I live in Brooklyn.4 My landlord I found out after  I5 had moved into my apartment and about two   years6 after I was in there, that the rent I was  paying7 was significantly higher than the rent  the8 previous tenant was  paying.9 I saw documents for  improvements10 which the prices for the work that was done,   it11 is grossly fraudulent , but it was too late for me12 to do anything about it.13 I understand this is not  an14 unusual situat ion. And, moreover, of course  like15 this is a landlord who owns lots and lots  of16 buildings. And he&#39; s not a mom and pop  landlord.17 And I do feel for these people who really have   a18 hard time and I know that their expenses  have19 gone up.20 But the thing that makes me  and21 many others like me very cynical about you   and22 about politicians and this whole process is   that23 year after year after year there are rent24 increases regardless of what the situation is   for25 the landlords, whether they are getting a  big2 </td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">1	6192	prof it , a small profit,  whatever .3 (Audience participation.)4 MR. SAM JONES:	And I would like5 to see one time, one time, when we are having   the6 hardest  economic time, the artists, musicians,7 the minorities,	the lower- income people, having8 the hardest time since the 1930s, I&#39;d like to  see9 one t ime have a heart , have some principle and do10 the right thing and no  increase.11 (Audience participation.)12 CHAIRMAN MARKUS:	Thank you.13 MR. SANTOS SCARDILLO:	Good14 evening.15 My name is Santos Scardillo.  I16 am a resident of Little Italy for twenty- two17 years and I urge you to take a courageous   step18 tonight or tomorrow when you are going to vote,19 on Thursday, rolling back to 2001 because  that&#39; s20 when the economy of the City tanked and  that&#39; s21 when the clock should  stop.22 We didn&#39; t get a rollback that23 year. Why do we have to keep adding and   adding24 and adding? The landlords complain they  have25 hardship . It &#39;s true their costs have gone up.5 </td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">2 What they don&#39; t tell you is that their profits3 have gone up considerably.4 I can only tell you in my  own5 building there are four apartments in the  last6 four years that have been decontrolled.  The7 asking rent becomes immediately a minimum  of8 $2000, but those are actually $2500, and  the9 rest , the median in that building is $600.10 You should take a hard look  at11 these facts when you consider the impacts on  the12 economy of the City.13 And I don&#39; t understand why the14 landlords, when they come hat in hand to ask  for15 more of my money, they don&#39; t have to open their16 books, but at the same time they can look into  my17 books and see how much money I&#39;m making if  they18 want to get me out and say I&#39;m making too  much19 money to have this great  gift.20 What I know is that when I  made21 a deal with my landlord, he considered  it22 prof itable to rent it to me at the amount that we23 agreed upon. And every year he&#39; s been getting  an24 increase that is far higher than the rate  of25 inflation and far higher than the rate  of2 </td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">1	6212 increasing my wages that I get and that  most3 people  in the City gets .4 And I urge you to do the  right5 thing, which is roll it back, roll it back  to6 2001. Otherwise we will have to have a sign  that7 says welcome to New York millionaires  only .8 Thank you very much.9 (Audience participation.)10 CHAIRMAN MARKUS:	Thank you.11 MR . ANDY HOMM:	Hi! My name is12 Andy Homm. I&#39;m with the London Terrace   Tenants13 Association.14 Is there - - most  of you have15 been quiet the whole time I&#39;ve been here.  Is16 there anything that we as long- time tenants  can17 answer for you that might make you reconsider18 imposing these very, very high  increases?19 (No response. )20 MR. ANDY HOMM:	I mean I21 understand the political situation . Michael22 Bloomberg appointed all of you and I  understand23 the Mayor wants high  increases.24 But I also understand that  you25 are human beings and you&#39;ve heard a lot  tonight ,2 </td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">2	and, you know, like all of us have  hearts.3	I mean this is not about - - you4 know, this isn&#39;t about charity and this is  not5 about subsidy. We are paying a lot of money   in6 rent. I dip into my savings to pay rent.  This7 isn&#39;t about me.  This is - -  the whole purpose  of8 these laws, the whole purpose, was to  ensure9 long- term, long - term affordable housing for10 people who live and work here. That is the   spirit11 of the law. That&#39; s the spirit of the law.12 And if you go ahead with  this13 proposed  increase, you will destroy that.  Forget14 about what &#39;s happening in Albany. You say we&#39; re15 still in business. We&#39;re not in business.  These16 laws are going out of  existence.17 But you have some power here,18 power, real power, you know, to make a   difference19 for the City of New York to help stabilize  it.20 These are the rent stabilization  laws.21 I beg of you to look into  your22 hearts and into your souls and to do  that.23 Thank you.24 (Audience participation.)25 MR. DAVE POWELL:	I&#39;m the second4 </td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">6236 other speaker who&#39; s going to speak.7 I&#39;m sorry Ms. Lusskin isn&#39;t  here8 because - -9	THE REPORTER:	Could I have your10	name, please.11	MR. DAVE POWELL:	Sorry . Dave12 Powell of the Metropolitan Council on  Housing .13 Because I really want ed to14 address the four new public members as I  think15 that your hearing this testimony for the  first16 t ime is most crucial .17 As part of my job, I go  with18 tenants to Housing Court and I counsel tenants   on19 the phone and in person and I help  tenant20 associations organize to gain repairs from the21 landlords .22 The buildings I work with  are23 exclusively rent stabilized . Most are in  Harlem,24 a few are in other Manhattan neighborhoods or25 central Brooklyn or the Bronx .12 </td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">2 For those four of you, now  three3 of you, the new public members,	I just really4 want you to take into account and understand   that5 the actions and vot es that you make really are6 going to significantly alter the face of  this7 City and the lives of people in this City and   I8 hope you take that into  account.9 I know you&#39;ve been barraged  with10 a lot of statistical informat ion and I understand11 that for the four of you the process is new  and12 I&#39;ve even heard some of you say that , you know,13 we&#39; re not responsible for what the old Rent14 Guidelines Board did.15 But , in fact , because we&#39; re16 talking about rent increases and the nature  of17 rent increases for us is that they are  compounded18 and they&#39; re permanent , in fact , you are19 intrinsically linked to the actions of the  past20 Rent Guidelines Board. You must take into   account21 the previous increases that have been given to  us22 which are unjustified.23 (Audience participation.)24 MR. DAVE POWELL:	I want to	I25 hope you put these increases in their proper2 </td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">2 context when you do vote on Thursday.3 I want to point out that despit e4 rising property  taxes, landlord profits  - -  this5 is all from the RGB staff reports - went up   again6 this year. Over the past five years the  NOI,7 which measures landlord prof it , has gone up 418 percent over the past five years, 41 percent.9	This year&#39; s Cost To Operating10 Ratio, again right out of your own reports,   shows11 that landlords are making12 CHAIRMAN MARKUS:	Dave, you13 need to wrap up.14 MR. DAVE POWELL:	- - forty- four15 cents - -16 Will do.17 CHAIRMAN MARKUS:	You need to18 wrap up.19 MR. DAVE POWELL:	- - of profit20 on every dollar.21 On the tenant side please22 consider these things again in your reports.23 117,500 jobs lost in New  York24 City in 2002. That &#39;s in the report.25 New York City&#39; s nightly shelter10 </td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">2 population as of March 2003 , 38,254. That is up3 16.5 percent from last year, 25 percent  increase4 in the number of families, that &#39;s households with5 kids, seeking temporary  shelter.6	And ,  again, you&#39;ve heard this 7 again, and I want to drive it home, over  258 percent of us in New York City, stabilized  and9 not , pay over 50 percent of our income in rent.10 And, lastly, the mean  household11 income, not individual breadwinner,  household12 income for the average rent stabilized tenant is 13	$32,000.14 And non- payment cases, highest15 that they&#39;ve ever been in terms of cases  actually16 going before a judge, 132,000 in  2002.17 Please don&#39; t be duped into18 thinking that you are making an abstract  policy19 decision or that the best way of preserving  our20 housing stock is by passing high increases at  a21 time when we can least afford  them.22 And above all understand  that23 every - - I mean this - - every percentage   point24 that you vote for will decide how many more  New25 Yorkers lose their homes, what kind of  food14 </td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">2 people are going to eat , and how often they  are3 going to eat it , and also where the dollars of4 the City are going to go, and whether they  are5 going to go into circulating to help  stimulate6 this struggling economy or whether they are  going7 to go into the back pockets of , you know,8 landlords who are doing very, very  well.9 So I urge you to  seriously10 consider that context because I&#39;m afraid with   all11 the stats that have been thrown at you,  landlord12 cost has been this really, you know, it&#39;s been13 placed on a pedestal.14 And even today there were  so15 many landlords here proportionate	to	there&#39; s16 2.3 million of u,s out there and there&#39; s like17 25 , 000 of them, you know. Please keep that in18 perspective.19 (Audience participat ion.)20 MS. DESIREE MONDON:	I know you21 all look happy that I&#39;m the last  one.22 CHAIRMAN MARKUS:	What &#39;s your23 name?24 MS. DESIREE MONDON:	Desiree25 Mondon, M - o-n- d - o- n.2 </td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">2 I have joined the homeless.  I3 have resided in the apartment that me and  my4 family was in for twenty- nine years. I&#39;m5 physically disabled. I worked for the post   office6 for sixteen years among other jobs.7 I am a living example of  the8 unjust of what&#39; s happening  in this City,9 specifically West Harl em. There are many10 vacancies  in West Harlem and there are  thousands11 of homeless people.12 Now, why aren&#39;t they in  these13 vacant , newly  renovated  apartments?  It&#39;s too14 expensive.15 HRA, Human Resource16 Administration,	they can find monies, lots of17 monies, to give these slumlords, these  hotel18 owners, these slumlords $1000, $2000 per day   to19 house temporarily  the homeless.20 Something is very, very  wrong.21 Greed has ran away. This is  terrible.22 And Psalm 109, you know, you may23 not  - - you know, when you do it , it comes  back.24 And you may not feel it , you may not see it , you25 may not gain it.2 </td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">1	6292	But , you know, remember we all3 have children, grandchildren and so forth and   so4 on. And , you know, all we want to do is live,5 just live decently and  normally.6 (Audience part icipation.)7 MS. DESIREE MONDON:	I am8 physically disabled. And my mother had had  a9 massive  stroke and had recently passed away.10 And the people who manage  my11 building, who coincidentally was on Channel   1112 invest igat ive news, as well as human rights13 stating that they were, quote unquote,  racist14 because they clearly said that they were  not15 rent ing apartments to blacks and it was caught  on16 tape.17 And I have the tape.18 But I just say this. You  know,19 out of sight , out of mind. I wish all of you20 panel ists could just take a trip to the Bronx,21 151st Street , two blocks east of the Grand22 Concourse. And, you know, if you want to know and23 if you have hearts, you know what I&#39;m saying.   And24 if you are really decent peopl e, you know, people25 who were born and raised here all their   lives3 </td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">1	6302 should not have to be going through what we  are3 going through.4 (Audience participation.)5 MS. DESIREE MONDON:	It is a6 shame , you know. And I go back to my	the7 building I resided in everyday because God is  my8 witness, what happened to me, if I can help it ,9 it will never happen to no one else because,  see,10 money is the root of all evil. And they  were11 getting paid at all ends. They were getting  paid12 at all ends.13 I was illegally put out of my14 apartment and that happened April 4th. And all  of15 - - me and my family&#39; s belongings  are still  there.16 I couldn&#39; t get help from no one and I&#39;m disabled.17 I went to the Legal Aid  Society18 and lot of people do go seeking legal  assistance19 and they can&#39;t get it. They had no staff .20 I went to Harlem Legal  Services.21 They had no staff . I went to the Legal Off ice on22 106th Street. The case was too  long.23 Something is wrong because  these24 landlords in the building that I lived in,  there25 is at least ten vacant apartments, and  they7 </td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">1	6312 warehouse those apartments and they are not   doing3 anything to the apartments4	CHAIRMAN MARKUS:	You need to5	wrap up.6	MS. DESIREE MONDON:	- - for the7 people who have been  there.8 Well , okay.9 I&#39;m here to say this. If  you10 panelists up there and if you adjust , I need11 help. I am here because I need help. It was   very12 unjust what they did to me and my family. I   have13 a fifteen- year old daught er, I have a mentally14 ill brother and eighty- one year old aunt.15 And I was in my bed and my  aunt16 was in the hospital and my brother was at his   day17 treatment program. And the marshals came  and18 literally put us in the hall and locked us  out.19 And one more thing. You know,20 the panelists are appointed. You know, we  the21 people , you know, should be doing the  appointing22 or the electing. I mean I really hope  you&#39;re23 listening to us.24 (Audience part icipation.)25 MS. DESIREE MONDON:	I really7 </td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">2 hope you are listening to  us.3 There are thousands and4 thousands of people, many children, that  are5 homeless, that are being bused on the  yellow6 school buses every night going to rat - infested,7 not even fit for anyone to live in. If it &#39;s cold8 outside, it &#39;s colder on the inside. If it &#39;s wet9 outside, it &#39;s wet inside.10 And these people are  getting11 astronomical amounts of money from the  City.12 Now if this City is broke  and13 they are laying people off , where is HRA  finding14 all of this money to give one, two or  three15 people that own so much  property?16 So it&#39; s only a few that &#39;s17 getting the wealth.18 CHAIRMAN MARKUS:	You need to -1920 MS. DESIREE MONDON:	That &#39;s21 wrong.22 And I hope that you panelists  up23 there can help me.24 CHAIRMAN MARKUS:	Thank you.25 (Audience participation.)20 </td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">16332CHAIRMAN MARKUS:	One more.3MS. FREDERICA NATHAN:	I thank4youverymuch.5 My name is Frederica  Nathan.6 I just would like to say  that7 what this young lady said about greed being  way8 out of control is something that really,  really9 has to be looked at.10 On the Upper East Side women  who11 are over 45, who are vulnerable, are all  being12 harassed and put out in the  street.13 My friend with non- Hodgkin&#39; s14 lymphoma had five minutes to grab had two  cats15 and get out in the hallway in her pajamas  when16 they locked her out in February with the  cold17 weather.18 And while I brought an appeal  in19 the Appeals Court for four years, six of  my20 female friends became homeless. And I think  that21 it is an outrage the things that we are having   to22 put up with in this City.23 And I beg you, I beg you,  please24 to be there to help us.25 We need you. We need you  more5 </td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">2 than the people that appointed you because  you&#39;re3 our only resource at this point . I beg you to4 help us.5 CHAIRMAN MARKUS:	Thank you.6 (Audience participation.)7 MS. JANET MURRAY:	I wasn&#39; t8.	going to say anything. I&#39;m sorry. I know this has9	been a long day for you.10 THE REPORTER:	Could I have your11 name first?12 MS. JANET MURRAY:	My name is13 Janet Murray. I&#39;m a tenant. I live in the  West14 Village.  I&#39;ve lived there for thirty years.15 I recently had an increase of  616 percent for a Major Capital Improvement . I&#39;m17 hearing about the 8   percent you folks want to   add18 on top.19 I&#39;ve been a long- time tenant. I20 will not be able, if this keeps  going21 direction that it&#39;s going, I will  notin thebe ableto22	stay in the City. I work at a major  medical23center. I&#39;vetaken care of many people over  the24course of mycareer which is about thirty  years.25I want you to seriously  think</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">1	6352 about  - - Mr. Lubell,  I&#39;ve  seen you bored  out of3 your mind  sitting up there tonight  - - about who&#39; s4 going to take care of your wives, your  children,5 your husbands.6 (Audience participation.)7	MS. JANET MURRAY:	Who&#39; s going8 to provide the essential services that we need   in9 our City?10 I&#39;m very concerned about  that.11 And I really would like you to really   seriously12 think about that.13 Thank you.14 (Audience participation.)15 CHAIRMAN MARKUS:	Thank you.16 I thank everyone. Thanks17 everybody for your patience.18 The meet ing of the Guidelines19 Board to make the final determinat ion will be20 Monday  night  at  5:30  - - Thursday night. Whatever.21 Thursday night , sorry. Thursday22 night at 5:30 at the US Customs House, which   is23 at the foot of Broadway, Bowling  Green.24 Thank you. See you then.25 (At 11:20 o&#39;clock p.m. the8 </td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">2	proceedings were concluded.)34	*	*	*5678910111213141516171819202122232425</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">1	6372345 STATE OF NEW YORK6 SS.7 COUNTY OF NEW YORK891011	I, ROY A. SELENSKE, a Certified Shorthand12 (Stenotype) Reporter and Notary Public within13 and for the State of New York, do hereby certify14 that the foregoing pages 383 through 636 taken15 at the time and place aforesaid, is a true and16 correct transcription of my shorthand notes.17IN WITNESSset my18name this 24th192021222324*	*	*25ROY ALLEN &amp; ASSOCIATES, INC.521 Fifth Avenue, 17th Floor, New York, New York 10175 (212) 840-1167</td>
+      </tr>
+</table>
+
+  <div class="BlobToolbar position-absolute js-file-line-actions dropdown js-menu-container js-select-menu d-none" aria-hidden="true">
+    <button class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1 dropdown-toggle js-menu-target" id="js-file-line-action-button" type="button" aria-expanded="false" aria-haspopup="true" aria-label="Inline file action toolbar" aria-controls="inline-file-actions">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/></svg>
+    </button>
+    <div class="dropdown-menu-content js-menu-content" id="inline-file-actions">
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
+        <li><clipboard-copy class="dropdown-item" style="cursor:pointer;" id="js-copy-lines" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/lydiahsu/Intro-Data-Science-Fall-2017/blame/e1fb5960e035e4dd1a0cc0a1fb3bc3ce0ed54cf2/text_data/txt/2003-06-17_5.txt">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" href="/lydiahsu/Intro-Data-Science-Fall-2017/issues/new">Open new issue</a></li>
+      </ul>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+  <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
+  <div id="jump-to-line" style="display:none">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+      <button type="submit" class="btn">Go</button>
+</form>  </div>
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+      
+<div class="footer container-lg px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2018 <span title="0.38379s from unicorn-2117364336-qgg4x">GitHub</span>, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li class="mr-3"><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li class="mr-3"><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+    </button>
+    You can't perform that action at this time.
+  </div>
+
+
+    
+    <script crossorigin="anonymous" integrity="sha512-gjdIIVyOYA3UaabSuKCQHZdLt84lLmROa87xIM/thAc9y+lnj7RHokXdWafFS0scIQFO9PQ5sGNXG0+MLRhw+Q==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-c47d34e9e8c79abd667b6a6a0ff26e7b.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-QoRSvLZ8gKtFbqZVGgdrfbouqZxmsKQnXe3pFtFd1ZtfoJIVsRTLnhFI26PW/5ts/4Rrsf8jssqJCNVYCsCp7A==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-d19623a69cc756b5a2cbda89154a69e9.js"></script>
+    
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+    </button>
+  </div>
+</div>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+
+  </body>
+</html>
+

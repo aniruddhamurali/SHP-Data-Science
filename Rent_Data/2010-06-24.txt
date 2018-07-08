@@ -1,0 +1,1276 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://assets-cdn.github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-eYhUAIv4O/68uoHkCtYXVTxc5Q92+NKMtOryYR5Svt7vDp34XkrggN5j4lrKyiB0B2HUyrAYvAb3tlhmFGhivg==" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-592c4aa40e940d1b0607a3cf272916ff.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-LUrF+o8wSTstABZwkJhSTy+PQCtGPf92OmcqBwdTsQyKTZ3JTXFyiTiLtXX2/PUT7ofgLcU5FNcBN7E+RQlWGQ==" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-96ebb1551fc5dba84c6d2a0fa7b1cfcf.css" />
+  
+  
+  
+  
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>Intro-Data-Science-Fall-2017/2010-06-24.txt at gh-pages · lydiahsu/Intro-Data-Science-Fall-2017</title>
+    <meta name="description" content="GitHub is where people build software. More than 27 million people use GitHub to discover, fork, and contribute to over 80 million projects.">
+  <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    
+    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/16928737?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="lydiahsu/Intro-Data-Science-Fall-2017" /><meta property="og:url" content="https://github.com/lydiahsu/Intro-Data-Science-Fall-2017" /><meta property="og:description" content="Contribute to Intro-Data-Science-Fall-2017 development by creating an account on GitHub." />
+
+  <link rel="assets" href="https://assets-cdn.github.com/">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjY2NTIzMzM3OjliYzEzMzIyNTMyMmFkOGQwYTM5NDIzNzgyNTA0NjQ3ZGQyNDEyYjkyZjUyZDczMTA3NjA3MGJiNDkxZDNmNDQ=--08c0cb3d3882592a2e8de90b043472773ec83772">
+  <meta name="pjax-timeout" content="1000">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+  <meta name="request-id" content="EBC1:248E:27E9780:47EEFC1:5AD21CC5" data-pjax-transient>
+
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+    <meta name="google-analytics" content="UA-3769691-2">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="EBC1:248E:27E9780:47EEFC1:5AD21CC5" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="35414964" /><meta name="octolytics-actor-login" content="aniruddhamurali" /><meta name="octolytics-actor-hash" content="244a7969d58e48da3f4a43530368524ae4f1a572bd6308c96a33da5a468756e4" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
+
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged In">
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="aniruddhamurali">
+
+      <meta name="expected-hostname" content="github.com">
+    <meta name="js-proxy-site-detection-payload" content="ZTM3ZmRlZTkzZjdiMjhiMTc4ODJlYWY0NjFmYzFjMTI4NTY4ZTdkYzZkZTk3ZjhkOWE0YWRkOTU5NDM5YjJiNnx7InJlbW90ZV9hZGRyZXNzIjoiMTYwLjM5LjIxMi4xNDQiLCJyZXF1ZXN0X2lkIjoiRUJDMToyNDhFOjI3RTk3ODA6NDdFRUZDMTo1QUQyMUNDNSIsInRpbWVzdGFtcCI6MTUyMzcxOTM3MCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+
+    <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
+
+  <meta name="html-safe-nonce" content="179ce37c1c638f058bf09d07eb041e64409851b6">
+
+  <meta http-equiv="x-pjax-version" content="89a4b3d4dd5891451d8dc82a0d6030b7">
+  
+
+      <link href="https://github.com/lydiahsu/Intro-Data-Science-Fall-2017/commits/gh-pages.atom" rel="alternate" title="Recent Commits to Intro-Data-Science-Fall-2017:gh-pages" type="application/atom+xml">
+
+  <meta name="description" content="Contribute to Intro-Data-Science-Fall-2017 development by creating an account on GitHub.">
+  <meta name="go-import" content="github.com/lydiahsu/Intro-Data-Science-Fall-2017 git https://github.com/lydiahsu/Intro-Data-Science-Fall-2017.git">
+
+  <meta name="octolytics-dimension-user_id" content="16928737" /><meta name="octolytics-dimension-user_login" content="lydiahsu" /><meta name="octolytics-dimension-repository_id" content="103312055" /><meta name="octolytics-dimension-repository_nwo" content="lydiahsu/Intro-Data-Science-Fall-2017" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="103312055" /><meta name="octolytics-dimension-repository_network_root_nwo" content="lydiahsu/Intro-Data-Science-Fall-2017" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/lydiahsu/Intro-Data-Science-Fall-2017/blob/gh-pages/text_data/txt/2010-06-24.txt" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
+  <link rel="icon" type="image/x-icon" class="js-site-favicon" href="https://assets-cdn.github.com/favicon.ico">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <meta name="u2f-support" content="true">
+
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-in env-production emoji-size-boost page-blob">
+    
+
+  <div class="position-relative js-header-wrapper ">
+    <a href="#start-of-content" tabindex="1" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
+
+    
+    
+    
+
+
+
+        
+<header class="Header  f5" role="banner">
+  <div class="d-flex flex-justify-between px-3 container-lg">
+    <div class="d-flex flex-justify-between ">
+      <div class="">
+        <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <svg height="32" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+
+      </div>
+
+    </div>
+
+    <div class="HeaderMenu d-flex flex-justify-between flex-auto">
+      <div class="d-flex">
+            <div class="">
+              <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" data-scoped-search-url="/lydiahsu/Intro-Data-Science-Fall-2017/search" data-unscoped-search-url="/search" action="/lydiahsu/Intro-Data-Science-Fall-2017/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <label class="form-control header-search-wrapper  js-chromeless-input-container">
+          <a class="header-search-scope no-underline" href="/lydiahsu/Intro-Data-Science-Fall-2017/blob/gh-pages/text_data/txt/2010-06-24.txt">This repository</a>
+      <input type="text"
+        class="form-control header-search-input  js-site-search-focus js-site-search-field is-clearable"
+        data-hotkey="s,/"
+        name="q"
+        value=""
+        placeholder="Search"
+        aria-label="Search this repository"
+        data-unscoped-placeholder="Search GitHub"
+        data-scoped-placeholder="Search"
+        autocapitalize="off"
+        >
+        <input type="hidden" class="js-site-search-type-field" name="type" >
+    </label>
+</form></div>
+
+            </div>
+
+          <ul class="d-flex pl-2 flex-items-center text-bold list-style-none" role="navigation">
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
+                Pull requests
+</a>            </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">
+                Issues
+</a>            </li>
+                <li>
+                  <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-selected-links=" /marketplace" href="/marketplace">
+                    Marketplace
+</a>                </li>
+            <li>
+              <a class="js-selected-navigation-item HeaderNavlink px-2" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
+                Explore
+</a>            </li>
+          </ul>
+      </div>
+
+      <div class="d-flex">
+        
+<ul class="user-nav d-flex flex-items-center list-style-none" id="user-links">
+  <li class="dropdown js-menu-container">
+    <span class="d-inline-block  px-2">
+      
+    <a aria-label="You have no unread notifications" class="notification-indicator tooltipped tooltipped-s  js-socket-channel js-notification-indicator" data-hotkey="g n" data-ga-click="Header, go to notifications, icon:read" data-channel="notification-changed:35414964" href="/notifications">
+        <span class="mail-status "></span>
+        <svg class="octicon octicon-bell" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 12v1H0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1 .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.11 0 2-.89 2-2H5c0 1.11.89 2 2 2z"/></svg>
+</a>
+    </span>
+  </li>
+
+  <li class="dropdown js-menu-container">
+    <details class="dropdown-details details-reset js-dropdown-details d-flex px-2 flex-items-center">
+      <summary class="HeaderNavlink"
+         aria-label="Create new…"
+         data-ga-click="Header, create new, icon:add">
+        <svg class="octicon octicon-plus float-left mr-1 mt-1" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9H7v5H5V9H0V7h5V2h2v5h5z"/></svg>
+        <span class="dropdown-caret mt-1"></span>
+      </summary>
+
+      <ul class="dropdown-menu dropdown-menu-sw">
+        
+<a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+  <a class="dropdown-item" href="/new/import" data-ga-click="Header, import a repository">
+    Import repository
+  </a>
+
+<a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
+  New gist
+</a>
+
+  <a class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="lydiahsu/Intro-Data-Science-Fall-2017">This repository</span>
+  </div>
+    <a class="dropdown-item" href="/lydiahsu/Intro-Data-Science-Fall-2017/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
+
+      </ul>
+    </details>
+  </li>
+
+  <li class="dropdown js-menu-container">
+
+    <details class="dropdown-details details-reset js-dropdown-details d-flex pl-2 flex-items-center">
+      <summary class="HeaderNavlink name mt-1"
+        aria-label="View profile and more"
+        data-ga-click="Header, show menu, icon:avatar">
+        <img alt="@aniruddhamurali" class="avatar float-left mr-1" src="https://avatars0.githubusercontent.com/u/35414964?s=40&amp;v=4" height="20" width="20">
+        <span class="dropdown-caret"></span>
+      </summary>
+
+      <ul class="dropdown-menu dropdown-menu-sw">
+        <li class="dropdown-header header-nav-current-user css-truncate">
+          Signed in as <strong class="css-truncate-target">aniruddhamurali</strong>
+        </li>
+
+        <li class="dropdown-divider"></li>
+
+        <li><a class="dropdown-item" href="/aniruddhamurali" data-ga-click="Header, go to profile, text:your profile">
+          Your profile
+        </a></li>
+        <li><a class="dropdown-item" href="/aniruddhamurali?tab=stars" data-ga-click="Header, go to starred repos, text:your stars">
+          Your stars
+        </a></li>
+          <li><a class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, your gists, text:your gists">Your gists</a></li>
+
+        <li class="dropdown-divider"></li>
+
+        <li><a class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">
+          Help
+        </a></li>
+
+        <li><a class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">
+          Settings
+        </a></li>
+
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ot5HOqF+YH39+dtlDY8nfVBC7+P+Zd1ynvQtxUWTQaj/QfaRLD03MopgFwiYNa3Uu0Bcww8RQ7pFouiFe3wWMw==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+        </form></li>
+      </ul>
+    </details>
+  </li>
+</ul>
+
+
+
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="O+zNnngOYAhSUzyxiVJmXptYjRbbyIl6mbOfploBfUL+c3w19U03RyXK8Nwc6Oz3cFo+Niq8F7JC5VrmZO4q2Q==" />
+          <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </div>
+</header>
+
+      
+
+  </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+    <div id="js-flash-container">
+</div>
+
+
+
+  <div role="main" class="application-main ">
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <div id="js-repo-pjax-container" data-pjax-container >
+      
+
+
+
+
+
+
+
+  <div class="pagehead repohead instapaper_ignore readability-menu experiment-repo-nav  ">
+    <div class="repohead-details-container clearfix container">
+
+      <ul class="pagehead-actions">
+  <li>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="MzTmgp3CWhzitHFqHPzEuLKR4MT2PlYs+5rHVrlUMRQw/g6DdSXjAeV6RijU33Fx9BjSwXutMCZTJeBMFxFOPQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="103312055" class="form-control" />
+
+        <div class="select-menu js-menu-container js-select-menu">
+          <a href="/lydiahsu/Intro-Data-Science-Fall-2017/subscription"
+            class="btn btn-sm btn-with-count select-menu-button js-menu-target"
+            role="button"
+            aria-haspopup="true"
+            aria-expanded="false"
+            aria-label="Toggle repository notifications menu"
+            data-ga-click="Repository, click Watch settings, action:blob#show">
+            <span class="js-select-button">
+                <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                Watch
+            </span>
+          </a>
+          <a class="social-count js-social-count"
+            href="/lydiahsu/Intro-Data-Science-Fall-2017/watchers"
+            aria-label="2 users are watching this repository">
+            2
+          </a>
+
+        <div class="select-menu-modal-holder">
+          <div class="select-menu-modal subscription-menu-modal js-menu-content">
+            <div class="select-menu-header js-navigation-enable" tabindex="-1">
+              <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+              <span class="select-menu-title">Notifications</span>
+            </div>
+
+              <div class="select-menu-list js-navigation-container" role="menu">
+
+                <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_included" value="included" checked="checked" />
+                    <span class="select-menu-item-heading">Not watching</span>
+                    <span class="description">Be notified when participating or @mentioned.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                      Watch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_subscribed" value="subscribed" />
+                    <span class="select-menu-item-heading">Watching</span>
+                    <span class="description">Be notified of all conversations.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
+                        Unwatch
+                    </span>
+                  </div>
+                </div>
+
+                <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                  <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+                  <div class="select-menu-item-text">
+                    <input type="radio" name="do" id="do_ignore" value="ignore" />
+                    <span class="select-menu-item-heading">Ignoring</span>
+                    <span class="description">Never be notified.</span>
+                    <span class="js-select-button-text hidden-select-button-text">
+                      <svg class="octicon octicon-mute" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.06L13.56 8l1.97-1.97z"/></svg>
+                        Stop ignoring
+                    </span>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+</form>
+  </li>
+
+  <li>
+    
+  <div class="js-toggler-container js-social-container starring-container ">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/lydiahsu/Intro-Data-Science-Fall-2017/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Xtkqx3ZT9rHHqCFY0BAjJnrKIGJ1jlWVixmNGBiInTZXJIjcW5RSyKTcLzRIi4Fa6QOrW013rIyL48VpxA76xA==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Unstar this repository" title="Unstar lydiahsu/Intro-Data-Science-Fall-2017"
+        data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+        Unstar
+      </button>
+        <a class="social-count js-social-count" href="/lydiahsu/Intro-Data-Science-Fall-2017/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/lydiahsu/Intro-Data-Science-Fall-2017/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XdjIsJZF2YRUoe+ghOlvi18gwVzg8V8BzJ9+zM43tdZhH/TAUHtOFNFDSAiyaFN9q8kg3D0NMWc1h4OD5B8k2Q==" />
+      <input type="hidden" name="context" value="repository"></input>
+      <button
+        type="submit"
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Star this repository" title="Star lydiahsu/Intro-Data-Science-Fall-2017"
+        data-ga-click="Repository, click star button, action:blob#show; text:Star">
+        <svg class="octicon octicon-star" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
+        Star
+      </button>
+        <a class="social-count js-social-count" href="/lydiahsu/Intro-Data-Science-Fall-2017/stargazers"
+           aria-label="0 users starred this repository">
+          0
+        </a>
+</form>  </div>
+
+  </li>
+
+  <li>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/lydiahsu/Intro-Data-Science-Fall-2017/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="f7cFWRoXGiHAhqvelOOOrVggCQNLIvHkcFDzc+zuU3Y3DHU9dXYm5jiwTsUdeystiCBSEoj1PWY3cnTTa93yrw==" />
+            <button
+                type="submit"
+                class="btn btn-sm btn-with-count"
+                data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
+                title="Fork your own copy of lydiahsu/Intro-Data-Science-Fall-2017 to your account"
+                aria-label="Fork your own copy of lydiahsu/Intro-Data-Science-Fall-2017 to your account">
+              <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+              Fork
+            </button>
+</form>
+    <a href="/lydiahsu/Intro-Data-Science-Fall-2017/network" class="social-count"
+       aria-label="0 users forked this repository">
+      0
+    </a>
+  </li>
+</ul>
+
+      <h1 class="public ">
+  <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" href="/lydiahsu">lydiahsu</a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/lydiahsu/Intro-Data-Science-Fall-2017">Intro-Data-Science-Fall-2017</a></strong>
+
+</h1>
+
+    </div>
+    
+<nav class="reponav js-repo-nav js-sidenav-container-pjax container"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container">
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /lydiahsu/Intro-Data-Science-Fall-2017/tree/gh-pages" href="/lydiahsu/Intro-Data-Science-Fall-2017/tree/gh-pages">
+      <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
+      <span itemprop="name">Code</span>
+      <meta itemprop="position" content="1">
+</a>  </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /lydiahsu/Intro-Data-Science-Fall-2017/issues" href="/lydiahsu/Intro-Data-Science-Fall-2017/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
+
+  <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /lydiahsu/Intro-Data-Science-Fall-2017/pulls" href="/lydiahsu/Intro-Data-Science-Fall-2017/pulls">
+      <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+      <span itemprop="name">Pull requests</span>
+      <span class="Counter">0</span>
+      <meta itemprop="position" content="3">
+</a>  </span>
+
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /lydiahsu/Intro-Data-Science-Fall-2017/projects" href="/lydiahsu/Intro-Data-Science-Fall-2017/projects">
+      <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
+      Projects
+      <span class="Counter" >0</span>
+</a>
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /lydiahsu/Intro-Data-Science-Fall-2017/wiki" href="/lydiahsu/Intro-Data-Science-Fall-2017/wiki">
+      <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
+      Wiki
+</a>
+
+  <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse /lydiahsu/Intro-Data-Science-Fall-2017/pulse" href="/lydiahsu/Intro-Data-Science-Fall-2017/pulse">
+    <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
+    Insights
+</a>
+
+</nav>
+
+
+  </div>
+
+<div class="container new-discussion-timeline experiment-repo-nav  ">
+  <div class="repository-content ">
+
+    
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lydiahsu/Intro-Data-Science-Fall-2017/blob/e1fb5960e035e4dd1a0cc0a1fb3bc3ce0ed54cf2/text_data/txt/2010-06-24.txt">Permalink</a>
+
+  <!-- blob contrib key: blob_contributors:v21:96c8b2ee29cd54c67c76d14fd8d5b4bb -->
+
+  <div class="file-navigation">
+    
+<div class="select-menu branch-select-menu js-menu-container js-select-menu float-left">
+  <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    
+    type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
+      <i>Branch:</i>
+      <span class="js-select-button css-truncate-target">gh-pages</span>
+  </button>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <svg class="octicon octicon-x js-menu-close" role="img" aria-label="Close" viewBox="0 0 12 16" version="1.1" width="12" height="16"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+        <span class="select-menu-title">Switch branches/tags</span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="form-control js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/lydiahsu/Intro-Data-Science-Fall-2017/blob/gh-pages/text_data/txt/2010-06-24.txt"
+               data-name="gh-pages"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                gh-pages
+              </span>
+            </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+               href="/lydiahsu/Intro-Data-Science-Fall-2017/blob/master/text_data/txt/2010-06-24.txt"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                master
+              </span>
+            </a>
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    <div class="BtnGroup float-right">
+      <a href="/lydiahsu/Intro-Data-Science-Fall-2017/find/gh-pages"
+            class="js-pjax-capture-input btn btn-sm BtnGroup-item"
+            data-pjax
+            data-hotkey="t">
+        Find file
+      </a>
+      <clipboard-copy
+            for="blob-path"
+            aria-label="Copy file path to clipboard"
+            class="btn btn-sm BtnGroup-item tooltipped tooltipped-s"
+            copied-label="Copied!">
+        Copy path
+      </clipboard-copy>
+    </div>
+    <div id="blob-path" class="breadcrumb">
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a data-pjax="true" href="/lydiahsu/Intro-Data-Science-Fall-2017/tree/gh-pages"><span>Intro-Data-Science-Fall-2017</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/lydiahsu/Intro-Data-Science-Fall-2017/tree/gh-pages/text_data"><span>text_data</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/lydiahsu/Intro-Data-Science-Fall-2017/tree/gh-pages/text_data/txt"><span>txt</span></a></span><span class="separator">/</span><strong class="final-path">2010-06-24.txt</strong>
+    </div>
+  </div>
+
+
+  <include-fragment src="/lydiahsu/Intro-Data-Science-Fall-2017/contributors/gh-pages/text_data/txt/2010-06-24.txt" class="commit-tease">
+    <div>
+      Fetching contributors&hellip;
+    </div>
+
+    <div class="commit-tease-contributors">
+      <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
+      <span class="loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment>
+
+
+  <div class="file">
+    <div class="file-header">
+  <div class="file-actions">
+
+    <div class="BtnGroup">
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/lydiahsu/Intro-Data-Science-Fall-2017/raw/gh-pages/text_data/txt/2010-06-24.txt">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/lydiahsu/Intro-Data-Science-Fall-2017/blame/gh-pages/text_data/txt/2010-06-24.txt">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/lydiahsu/Intro-Data-Science-Fall-2017/commits/gh-pages/text_data/txt/2010-06-24.txt">History</a>
+    </div>
+
+        <a class="btn-octicon tooltipped tooltipped-nw"
+           href="x-github-client://openRepo/https://github.com/lydiahsu/Intro-Data-Science-Fall-2017?branch=gh-pages&amp;filepath=text_data%2Ftxt%2F2010-06-24.txt"
+           aria-label="Open this file in GitHub Desktop"
+           data-ga-click="Repository, open with desktop, type:mac">
+            <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
+        </a>
+
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/lydiahsu/Intro-Data-Science-Fall-2017/edit/gh-pages/text_data/txt/2010-06-24.txt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="g+psDayuvwSUm84Anlw5sWautZVhp3p2omVjLKXyblq/7+F4uAiQbxfH0gkI8wMhSmN6TRa15ngP2BLJoqcCuQ==" />
+            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+              aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
+              <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+            </button>
+</form>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/lydiahsu/Intro-Data-Science-Fall-2017/delete/gh-pages/text_data/txt/2010-06-24.txt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="8TayiCNhp/mdvavbvy7ZcAxhsd/5cYO+7h8Os55uHd7xkdL/uLXy31ET3dexR3dkHYoq6G+PzW4h2bLv9a5r3Q==" />
+          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+            aria-label="Fork this project and delete the file" data-disable-with>
+            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+          </button>
+</form>  </div>
+
+  <div class="file-info">
+      4487 lines (2248 sloc)
+      <span class="file-info-divider"></span>
+    75.1 KB
+  </div>
+</div>
+
+    
+
+  <div itemprop="text" class="blob-wrapper data type-text">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">﻿2 THE CITY OF NEW YORK 3 RENT GUIDELINES BOARD 4 x5 PUBLIC MEETING 6 of 7 THE DIRECTORS 8 x9Auditorium 10Cooper Union 117 East 7 th Street 12New York, New York 1314June 24 , 2010 155 : 31 p. m.161718Befo re :1920JONATHAN L. KIMMEL, ESQ.,21CHAIRMAN </td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">2 A P P E A R A N C E    S:3 Board of Directors:4 Jonathan L. Kimmel, Esq., Chairman 5 Betty Phillips Adams 6 Ronald Scheinberg, Esq.7 Risa A. Levine, Esq.8 David H. Wenk 9 Magda L. Cruz, Esq.10 Steven J. Schleider, MAI 11 Adriene L. Holder, Esq.12 Ronald S. Languedoc, Esq.1314 S T A F  F:15 Andrew McLaughlin 16 Executive Director 17 Brian Hoberman 18 Senior Research Associate 19 Danielle Burger 20 Research Associate 21 Leon Klein 22 Office Manager 23 Charmaine Superville 24 Public Information Officer 14 </td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">2 A P P E A R A N C E    S:3 ALSO PRESENT:4 The Public 5 The Press 6 The Media 789101112131415161718192021</td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">Marc Russo Reporter </td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">2345	everyone.6</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">P R O C E E D I N G    SCHAIRMAN KIMMEL:	Good evening,My name is Jonathan Kimmel,  Chair </td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"> 7 of the Rent Guidelines Board.	I’ d like to welcome 8 you to this public meeting.9 This is the final meeting  in 10 a series of public meetings and hearings  to 11 determine renewal lease adjustments for  rent 12 stabilized housing units in New York City  with 13 leases commencing or being renewed on or  after 14 October 1 , 2010 , and on or before September 30 th, 15	2011 .16 Before we go into the business,  I17 would just like to take a moment to  publicly 18 acknowledge the staff of the Rent Guidelines  Board;19 Andrew, Brian, Danielle, Leon and Charmaine,  who 20 have worked --21 ( Applause.)22 CHAIRMAN KIMMEL:	-- who have 23 worked tirelessly to provide the members of  this 24 board with their extensive research and  analyses.25 Their work has proven to be  an 16 </td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">2 invaluable resource to this board in  our 3 determination of the guidelines.	As Chair, and I4 will take the liberty of speaking for the  entire 5 board, thank you for your  efforts.6 Now I will have to read  the 7 language of the 2010 Apartment and Loft Order # 42 .8 Order Number 42 - Apartments  and 9 Lofts, rent levels for leases commencing October 1 ,10 2010 through September 30 , 2011 .11 NOTICE IS HEREBY GIVEN PURSUANT TO 12 THE AUTHORITY VESTED IN THE NEW YORK CITY  RENT 13 GUIDELINES BOARD BY THE RENT STABILIZATION LAW  OF 14 1969 , as amended, and the Emergency Tenant 15 Protection Act of 1974 , as amended, as extended by 16 Chapter 82 of the Laws -- no, I missed that.   As 17 extended by Chapter -- as amended, implemented  by 18 Resolution No. 276 of 1974 of the New York  City 19 Council and extended by Chapter 82 of the Laws  of 20 2003 , and in accordance with the requirements of 21 Section 1043 of the New York City Charter, that  the 22 Rent Guidelines Board ( RGB) hereby adopts the 23 following levels of fair rent increases over  lawful 24 rents charged and paid on September 30 , 2010 .25 These rent adjustments will apply 2 </td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">2 to rent stabilized apartments with  leases 3 commencing on or after October 1 , 2010 and  through 4 September 30 , 2011 .	Rent guidelines for loft units 5 subject to Section 286 subdivision 7 of  the 6 Multiple Dwelling Law are also included in  this 7 order.8 ADJUSTMENT FOR RENEWAL LEASES	9 ( APARTMENTS).10 Together withe such further 11 adjustments as may be authorized by law, the  annual 12 adjustment for renewal leases for apartments  shall 13 be:14 For a one- year renewal lease 15 commencing on or after October 1 , 2010 and on  or 16 before September 30 , 2011 :	Blank %17 For a two- year renewal lease 18 commencing on or after October 1 , 2010 and on  or 19 before September 30 , 2011 :	Blank %.20 These adjustments shall also 21 apply to dwelling units in a structure subject  to 22 the partial tax exemption program under  Section 23 421 a of the Real Property Tax Law, or in  a24 structure subject to Section 423 of the  Real 25 Property Tax Law as a Redevelopment  Project.2 </td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">234	allowance.5</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">VACANCY ALLOWANCE FOR APARTMENTS.There shall be blank vacancy ADDITIONAL ADJUSTMENT FOR RENT	</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">6 STABILIZED APARTMENTS SUBLET UNDER SECTION 2525 . 6	7 OF THE RENT STABILIZATION CODE.8 In the event of a  sublease 9 governed by subdivision ( 3 ) of section 2525 . 6 of 10 the Rent Stabilization Code, the  allowance 11 authorized by such subdivision shall be blank  %.12 ADJUSTMENTS FOR LOFTS ( UNITS IN	13 THE CATEGORY OF BUILDINGS COVERED BY ARTICLE 7 - C OF	14 THE MULTIPLE DWELLING LAW).15 The Rent Guidelines Board adopts 16 the following levels of rent increase above  the 17 “ base rent,” as defined in Section 286 ,18 sub- division 4 , of the Multiple Dwelling Law, for 19 units to which these guidelines are applicable  in 20 accordance with Article 7 - C of the Multiple 21 Dwelling Law:22 For a one- year increase periods 23 commencing on or after October 1 , 2010 and on  or 24 before September 30 , 2011 : Blank %.25 For a two- year increase periods 6 </td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">2 commencing on or after October 1 , 2010 and on  or 3 before September 30 , 2011 : Blank %.4 VACANT LOFT UNITS	5 There shall be blank vacancy 6 allowance.7 FRACTIONAL TERMS.8 For the purposes of these  guide 9 lines, any lease or tenancy for a period up to   and 10 including one year shall be deemed a one- year lease 11 or tenancy, and any lease or tenancy for a   period 12 of over one year and up to and including two   years 13 shall be deemed a two- year lease or tenancy.14 ESCALATOR CLAUSES.15 Where a lease for a dwelling  unit 16 in effect on May 31 , 1968 or where a lease  in 17 effect on June 30 , 1974 for a dwelling unit  which 18 became subject to the Rent Stabilization Law  of 19 1969 , by virtue of the Emergency Tenant Protection 20 Act of 1974 and Resolution No. 276 of the New   York 21 City Council, contained an escalator clause for  the 22 increased costs of operation and such clause  is 23 still in effect, the lawful rent on September 30 ,24 2010 , over which the fair rent under this Order  is 25 computed, shall include the increased rental,  if 2 </td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">2 any, due under such clause except those  charges 3 which accrued within one year of the  commencement 4 of the renewal lease.5 Moreover, where a lease contained 6 an escalator clause that the owner may  validly 7 renew under the Code, unless the owner elects  or 8 has elected in writing to delete such  clause,9 effective no later than October 1 , 2010 from the 10 existing lease and all subsequent leases for  such 11 dwelling unit, the increased rental, if any,  due 12 under such escalator clause shall be offset  against 13 the amount of increase authorized under this  order.14 SPECIAL ADJUSTMENTS UNDER PRIOR	15 ORDERS.16 All rent adjustments lawfully 17 implemented and maintained under previous  apartment 18 orders and included in the base rent in effect  on 19 September 30 , 2010 shall continue to be included in 20 the base rent for the purpose of  computing 21 subsequent rents adjusted pursuant to this  Order.22 SPECIAL GUIDELINE.23 Under Section 26 - 513 ( b)( 1 ) of 24 the New York City Administrative Code, and  Section 25 9 ( e) of the Emergency Tenant Protection Act of 2 </td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">2 1974 , the Rent Guidelines Board is obligated to 3 promulgate special guidelines to aid the  State 4 Division of Housing and Community Renewal in  its 5 determination of initial legal regulated rents  for 6 housing accommodations previously subject to  the 7 City Rent and Rehabilitation Law which are  the 8 subject of a tenant application for  adjustment.9 The Rent Guidelines Board hereby 10 adopts the following Special Guidelines:11 For dwelling units -- for  dwelling 12 units subject to the Rent and Rehabilitation Law  on 13 September 30 , 2010 which become vacant after 14 September 30 , 2010 , the special guideline shall be 15 blank.16 DECONTROLLED UNITS.17 The permissible increase for 18 decontrolled units as referenced in Order 3 a which 19 become decontrolled after September 30 , 2010 , shall 20 be blank.21 CREDITS.	22 Rentals charged and paid in 23 excess of the levels of rent increases  established 24 by this Order shall be fully credited against  the 25 next month’ s rent.2 </td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"> 2 STATEMENT OF BASIS AND PURPOSE.3 The Rent Guidelines Board is 4 authorized to promulgate rent guidelines  governing 5 apartment units subject to the Rent  Stabilization 6 Law of 1969 , as amended, and the Emergency Tenant 7 Protection Act of 1974 , as amended.	The purpose of 8 these guidelines is to implement the public  policy 9 set forth in Findings and Declaration of  Emergency 10 of the Rent Stabilization Law of 1969 (§ 26 - 501 of 11 the N. Y. C. Administrative Code) and in the 12 Legislative Findings contained in the  Emergency 13 Tenant Protection Act of 1974 ( c. 576 , of the laws 14	of 1974 § 4 [§ 2 ].)15 The Rent Guidelines Board is  also 16 authorized to promulgate rent guidelines for  loft 17 units subject to Section 286 subdivision 7 of  the 18 Multiple Dwellings Law.	The purpose of the loft 19 guidelines is to implement the public policy  set 20 forth in the Legislative Findings of Article  C21 ( sic) of the Multiple Dwelling Law ( Section 280 ).22 With that read into the record,  do 23 I hear a resolution proposed?24 Mr. Languedoc.25 MR. LANGUEDOC:	Thank you, Mr.15 </td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">2	Chair.3</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">I make the following motion:	I</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">4 move that this board adopt adjustment for  renewal 5 leases for apartments for one- year renewal lease,6 zero percent;7 For two- year renewal lease, zero 8 percent;9 Vacancy allowance for apartments,10 there shall be no vacancy  allowance;11 Sublease allowance, zero percent;12 Adjustment for loft units for 13 one- year increase, zero percent;14 For two- year increase, zero 15 percent;16 Zero vacancy increase, zero 17 vacancy allowance for lofts;18 The special guideline for units 19 that become decontrolled shall be 150 percent  of 20 the rent controlled rent; and 21 The permissible increase for 22 decontrolled units under Order A, 3 a, shall be 50 23 percent.24 And in support of that motion,  I25 would just like to note that the Price Index  of 4 </td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">2 Operating Costs or PIOC, completed by the staff  of 3 the board, was only 3 . 4 percent. That is the lowest 4 since 2002 . It’ s been very low inflation.	There’ s5 been a loss of over 10 , 000 rent stabilized units in 6 2009 , creating a scarcity problem.	And in the 7 meantime, the income of rent stabilized  households 8 has declined. Unemployment is at near record  levels 9 and affordable housing has become  increasingly 10 scarce.11 VOICES:	We can’ t hear you.12 MR. LANGUEDOC:	Can you hear me 13 now?14 VOICES:	Yes.15 MR. LANGUEDOC:	I’ m sorry.	I do 16 that every year.	At what point did you not  hear 17 me?18 VOICES:	All of it.19 MR. LANGUEDOC:	All of it.	I’ ll 20 start again.21 ( Audience participation.)22 MR. LANGUEDOC:	Okay.	In support 23 of my motion for a rent freeze, the board’ s  Price 24 Index of Operating Costs is 3 . 4 percent.	That’ s25 the lowest since 2002 .	The City has lost over 2 </td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">2 10 , 000 rent stabilized units, a net loss of over 3 10 , 000 rent stabilized units in 2009 . There’ s been 4 very low inflation. In the meantime, the  median 5 household income for rent stabilized tenants  has 6 declined. The unemployment rate is at record  highs,7 hovering around ten percent.	And the supply of 8 affordable housing that’ s affordable to low income 9 households has become increasingly scarce.10 CHAIRMAN KIMMEL:	Is there a11 second?12 ( Applause.)13 MS. HOLDER:	I second that 14 motion.15 CHAIRMAN KIMMEL:	Thank you.16 MS. HOLDER:	I too have a17 statement. It’ s been a particularly difficult year,18 not only for this board, but more importantly  for 19 all New Yorkers. And we see that in the  testimony 20 that’ s come before us.21 But to add to that, what  we 22 actually do see, is we see that over time that   the 23 landlords who’ ve been awarded increases by this 24 board year after year.	If we actually look at  it,25 what we see is that the landlords -- and it’ s  clear 2 </td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">2 evidence that the owners&#39; average net  operating 3 incomes have been kept whole over the long term  of 4 rent stabilization, a period when tenant  rent 5 burdens have risen dramatically. And we’ ve seen 6 that over and over again.7 In the analysis of rent  burden 8 data, median across the board rent income  ratios 9 tend to be inert over time, while poor and  near 10 poor tenants are struggling with rapidly  escalating 11 rent burdens. And we must care to consider  the 12 impacts on lower income tenants. If not this  year,13 I don’ t know when.14 This has been a  particularly 15 difficult year and in light of the last two  years,16 much more higher increases than what was  really 17 warranted. We would like to see that there be  a18 rent freeze. We think it’ s what’ s fair.	We think 19 it’ s what needs to happen in this economy.	We need 20 to take into consideration what is going on  with 21 the renters and the tenant  community.22 And according to the law, we  must 23 consider first, the economic condition of  the 24 residential real estate industry and the  affected 25 area, including such factors as the prevailing  and 2 </td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">2 projected real estate taxes and sewer water  rates,3 gross operating maintenance costs, including 4 insurance rates, governmental fees, cost of  fuel 5 and labor costs, and cost and availability  of 6 financing, including effective rates of interest,7 and the overall supply of housing  accommodations 8 and overall vacancy rates, as well as relevant  data 9 from the current and projected cost of  living 10 indices for the affected area and such other  data 11 as may be made available to  us.12 We have an excellent staff  that 13 has prepared wonderful reports for us.	And they 14 include, &quot; The Changes to the Rent Stabilized 15 Housing Stock in New York City in  2009 .&quot;	&quot; The 2010 16 Housing Supply Report.&quot;	The 2010 Price Index of 17 Operating Costs.&quot;	&quot; The 2010 Income Affordability 18 Study.&quot;	&quot; The 2010 Income and Expense Study&quot; and 19 &quot; The 2010 Mortgage Survey Report.&quot;20 And all that I mean to say by  just 21 reciting what it is that this board knows too  well 22 about what is the law and the reports that we   have 23 that have been provided to us by our most  excellent 24 staff, is just to say that there is a totality   of 25 things that we need to  look at.	We need to look at 2 </td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">2 a bunch of things. But what we’ re seeing 3 consistently year after year after year, and what’ s4 been compounded year after year after year,  are 5 unwarranted increases to tenants&#39; rents.	And the 6 rent burdens continue to escalate.7 And the time is now. This is  the 8 year that we should have a rent freeze.  Westchester 9 has done it.10 ( Audience Participation.)11 MS. HOLDER:	The Westchester 12 County Rent Guidelines Board understood that  those 13 apartments covered by the ETPA, the majority  of 14 them in southern Westchester and neighborhoods  such 15 as Mount Vernon, New Rochelle and Yonkers,  that 16 those tenants needed to have a rent freeze  this 17 year.18 And Nassau County Rent Guidelines 19 Board did it.	They did a rent freeze for the  first 20 year and one- half of one percent for two- year lease 21 renewals.	And those are both processes that  where 22 you actually had landlords that opened up  their 23 books and with all the evidence before them,  that 24 is what those two rent guidelines  board did.	And 25 we think it is the right thing  to do.	And given 2 </td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">2 the fact that in New York City, we  have 3 disproportionate amounts of low income  people 4 living in this housing stock, this is the time  this 5 year in New York City for a rent  freeze.6 ( Audience participation.)7 CHAIRMAN KIMMEL:	Thank you.8 I’ d like to call the vote on Mr.9 Languedoc’ s proposal.10 Ms. Adams.11 MS. ADAMS:	Mr. Chairman, these 12 are indeed very difficult times.	However, on a13zero percent increase I must vote no.14( Audience participation.)15CHAIRMAN KIMMEL:	Ms. Adams votes 16no.17Ms. Cruz.18MS. CRUZ:	No.19( Audience participation.)20CHAIRMAN KIMMEL:	Ms. Holder.21MS. HOLDER:	Yes.22( Applause.)23CHAIRMAN KIMMEL:	Mr. Languedoc.24MR. LANGUEDOC:	Yes.25( Applause.)</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">2CHAIRMAN KIMMEL:	Ms. Levine.3MS. LEVINE:	No.4CHAIRMAN KIMMEL:	Ms. Levine 5votes no.6CHAIRMAN KIMMEL:	Mr. Scheinberg.7MR. SCHEINBERG:	No.8( Audience participation.)9CHAIRMAN KIMMEL:	Mr. Scheinberg 10votes no.11Mr. Schleider.12MR. SCHLEIDER:	Just as a quick 13comment.In Nassau County, fuel went down, which 14we didn&#39; t--15A VOICE:	Can’ t hear you.16A VOICE:	Mike.17MR. SCHLEIDER:	It’ s on.	Thank 18you.19In Nassau County and in 20 Westchester County, fuel went down  significantly.21 Also, real estate taxes hardly moved in  Nassau 22 County and we’ re seeing real estate taxes again 23 flat for Westchester.24 In terms of insurance costs,25 insurance costs went down in Nassau  County.20 </td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">2 Insurance costs went down in Westchester  County.3 Furthermore, repairs and maintenance expenses went 4 down in Westchester County.5 We don’ t have that economic 6 climate here.	We don’ t have that --7 ( Audience participation.)8 MR. SCHLEIDER:	-- operating cost 9 profile here.10 ( Audience participation.)11 MR. SCHLEIDER:	That’ s my comments 12 on those counties&#39; recent guideline votes.	They 13 don’ t relate to New York and I’ m far more New York 14 centric than you.15 I vote no.16 CHAIRMAN KIMMEL:	Mr. Schleider 17 votes no.18 ( Audience participation.)19 CHAIRMAN KIMMEL:	Mr. Wenk.20 MR. WENK:	No.21 ( Audience participation.)22 CHAIRMAN KIMMEL:	Mr. Wenk votes 23 no.24 The Chair votes no.25 Motion defeated, 7 - 2 .2 </td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">234	proposal?5678</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">( Applause.)CHAIRMAN KIMMEL:	Is there another MR. SCHLEIDER:	Mr. Chair.CHAIRMAN KIMMEL:	Mr. Schleider. ( Audience participation.)MR. SCHLEIDER:	Thank you, Mr.</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">9 Chairman.	Thank you, board members and welcome  to 10 the public assembly gathered here.11 In this year’ s scheduled meetings 12 and reports, deliberations and airing of points  of 13 views emphasized that the continued economic 14 insecurity affecting most everyone in this  great 15 hall and throughout New York City, both tenants  and 16 landlords, has brought stress, worries,  troubles 17 and uncertainty.	Though the individual 18 circumstances are varied in both type and  depth,19 nonetheless, living life in New York City  has 20 become more of a challenge. And providing  safe,21 affordable housing has become more of a  challenge,22 a great deal more challenging.23 In fact, our staff reporting cites 24 a government- sponsored survey that shows that 25 despite on- going efforts by a number of government 9 </td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">2 agencies and nonprofit groups, housing 3 affordability remains an issue in a city  ranked 4 11 th overall among 71 big cities nationwide during 5	2008 .6 The 2009 ACCRA data shows 7 Manhattan has the highest cost of living index  in 8 that nation, with Brooklyn the third highest  and 9 Queens the fifth highest. Nationally, Manhattan  is 10 the most expensive.	Brooklyn and Queens third and 11 fifth most expensive in the  nation.12 You can’ t get away from the fact 13 that it’ s expensive to live in this city and it’ s14 expensive to provide housing in the City. But  we 15 know that the cost of living has risen - and   risen 16 sharply - with hidden price increases, usually  a17 smaller packaging or less product in the same  size 18 package for the price you’ re used to paying.	This 19 means hidden price increases, up to 30 percent  in 20 some cases.	Smaller portions, less product in  the 21 box or can than you used to get, all hidden   price 22 increases and many of these within the past  year 23 alone.24 Looking at the cost of food  and 25 household items over the past ten years, the  rate 6 </td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">2 of price increase - just what you pay at the   cash 3 register - has dramatically increased.	And when 4 you also consider the smaller amounts that you  get 5 for high price, your dollar  has shrunk.	The dollar 6 doesn’ t go as far as it used to go. Food  and 7 household items cost way more than they  did.8 However, your apartment didn’ t get 9 smaller.	And the rent increases passed by   this 10 board has always been far, far lower than  the 11 increase you pay for food and household  items.12 ( Audience participation.)13 MR. SCHLEIDER:	Far, far lower.14 In fact, the rate of rent increase has never  kept 15 up with the rent of real price  increases.16 And I pointed out before that  the 17 staff reports show meager property incomes  for 18 Bronx apartment buildings contrasted with the 19 higher incomes for the luxury buildings in the  core 20 Manhattan neighborhoods.21 We’ ve seen the incomes for 22 properties in the Bronx move down year after  year 23 despite some upward property income movement  in 24 other boroughs.	Clearly, there is no consistent 25 movement in property income Citywide, let  alone 2 </td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">2 year to year.	In fact, the Citywide average  rate 3 of property operating income growth is 38  percent 4 lower than last year.	Average cost growth is 23 5 percent higher than last year. Costs rose  23 6 percent faster than the prior years rate of  cost 7 growth.8 In fact, the staff reports  show 9 the only consistency is that stabilized  rent 10 increases have roughly mirrored inflation and 11 owners&#39; cost have increased far,  far faster.	The 12 staff reports also don’ t account for hidden costs.13 We’ ve seen the evidence of this 14 as one in nine properties are distressed,  an 15 increase over last year.	And distressed because 16 rents don’ t cover expenses.	That’ s expenses before 17 debt service.	More than eleven percent of  the 18 rental buildings rent collections do not  cover 19 operating expenses:	Fuel, water and sewer,20 electricity gas, real estate taxes,  repairs,21 insurance, all before the bank gets  paid.22 And hardship rent increases cannot 23 be processed by the State.	Year after year DHCR 24 has testified that the hardship increase  process 25 doesn’ t work. There is no DHCR relief for these 2 </td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">2 properties.	Adequate increases from this board are 3 needed to prevent further deterioration of  the 4 housing stock.5 And for those properties able  to 6 meet operating costs, how have  they fared?	Well,7 the landlords collect the rent.	The landlords are 8 telling us that they don’ t own their buildings.9 They’ re not full owners any longer. Landlords have 10 a partner that’ s unforgiving and demands payment 11 first. The partner gets its money before  the 12 landlord. That partner is the City.	The City takes 13 almost 25 cents of each dollar collected of  income 14 for these buildings.15 ( Audience participation.)16 MR. SCHLEIDER:	And that 17 percentage is rising and it’ s rising fast.	Real 18 estate taxes, water and sewer charges,19 administrative fees, all rising and rising  fast.20 And the number of distressed properties is  expected 21 to rise because of this.22 As a board, we can’ t address the 23 particular issues and problems of individual  owners 24 and tenants, nor can we address of the issues  of 25 types of buildings or groupings of tenants  as 2 </td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">2 separate and apart from the total universe  of 3 landlords and tenants. We’ ve struggled with this,4 but we’ re locked into our mandate to consider 5 guidelines appropriate for the vast majority of  the 6 housing stock.7 Unfortunately, the statute 8 presently does not allow us flexibility to  isolate 9 those least able or most in need, both tenants  and 10 landlords.	And that was reinforced by a judge  who 11 negated our attempt to think outside the box  with 12 the minimum dollar rent increases.13 Well, the Appellate Division 14 affirming vacating the minimum dollar  rent 15 increases under Rent Guidelines Board Orders  Nos.16 40 and 41 , says that our politicians in the  City 17 Council have the ability and power to  establish 18 classifications of housing accommodations, and, if 19 deemed necessary, to thereby allow for 20 differentiations of rental treatment.21 The City Council has had  the 22 ability and power to allow us flexibility  in 23 setting rent guidelines. But they’ ve chosen not to.24 The Appellate Division said that they have  the 25 ability and the power. The politicians, the  very 2 </td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">2 same critics of this board, who have had  the 3 ability and power to allow us the flexibility  to 4 address issues and problems of landlords  and 5 tenants with a more appropriate method,  have 6 refused us the flexibility.7 Yet these politicians want this 8 board to do more of the Council’ s work.9 ( Audience participation.)10 MR. SCHLEIDER:	These politicians 11 who get paid with taxpayer money want this board  to 12 do their work.	They expect us to maintain a  social 13 safety net by expanding an entitlement  program 14 funded by landlords through inadequate rent 15 increases.	This board and these deliberations  are 16 not a forum for social justice issues nor should  it 17 be a forum for redistributive  agenda.18 Again, the City has a  demanding 19 partner through its politicians, wants to take  over 20 these buildings with hidden and outright  taxes,21 fees, and not allowing this board the  flexibility 22 to address particular issues and problems  with 23 adequate guideline adjustments.24 I say again, we need to move as  a25 board toward a more realistic attitude  that 2 </td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">2 supposes not all landlords are able to make  it 3 without assistance in meeting rising costs,  crimped 4 cash flows and draining on their savings, and  that 5 most tenants can and should bear their share of  the 6 rising real estate taxes, water and sewer  charges,7 unfunded mandates and prospect of rising  operating 8 costs.9 ( Audience participation.)10 MR. SCHLEIDER:	Without proper and 11 fair rent increases --12 ( Audience participation.)13 MR. SCHLEIDER: -- the landlords 14 are again --15 ( Audience participation.)16 MR. SCHLEIDER:	-- the landlords 17 are again shouldering the expense of what is  a18 public subsidy.19 ( Audience participation.)20 MR. SCHLEIDER:	The staff report 21 focusing on the rent increase formulae noted  that 22 the rise in core expenses was three- and- a- half 23 percent.24 ( Audience participation.)25 MR. SCHLEIDER:	And that next 2 </td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">2 year’ s core expense will be 6 . 7 percent.3 ( Audience participation.)4 MR. SCHLEIDER:	These suggest 5 modest one and two- year increases will be necessary 6 to protect the viability of our regulated  housing 7 stock.8 ( Audience participation.)9 MR. SCHLEIDER:	Testimony from 10 owners and managers of apartment buildings  confirm 11 the rapid rise in operating costs and  were 12 surprised at the low percentage increases in  our 13 report.14 ( Audience participation.)15 MR. SCHLEIDER:	However, reality 16 says the costs have risen have far more  with 17 testimony suggesting minimum one- year renewal lease 18 increases up to ten percent are  necessary.19 ( Audience participation.)20 MR. SCHLEIDER:	Again, you can’ t21 get away from the fact that it’ s expensive to  live 22 in the City and it’ s expensive to provide housing 23 in the City.24 ( Audience participation.)25 MR. SCHLEIDER:	However, in 2 </td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line"> 2 keeping with the economic realities and  concerns 3 for those newly at risk tenants and those likely  to 4 join their ranks before the year is out, I   propose 5 a continuation of the tempering of our  usual 6 position in the spirit of recognizing the  current 7 demands and hardships.8 ( Audience participation.)9 MR. SCHLEIDER: So, to mitigate 10 a portion of the cost increases and redress  the 11 loss suffered by losing the supplemental  rent 12 increase from last year, --13 ( Audience participation.)14 MR. SCHLEIDER:	-- I propose that 15 the guideline account for the realities in the  rise 16 in operating costs.17 ( Audience participation.)18 MR. SCHLEIDER:	With a one- year 19 renewal lease commencing on or after October 1 st,20 2010 and on or before September 30 th, 2011 of 21	4 . 25 %.22 ( Audience participation.)23 MR. SCHLEIDER:	For a two- year 24 renewal lease commencing on or after October 1 st,25 2010 and on or before September 30 th, 2011 , 8 . 5 %.22 </td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line"> 3 MR. SCHLEIDER:	There’ s going to 4 be a 10 % vacancy allowance.5 ( Audience participation.)6 MR. SCHLEIDER:	Under subdivision 7 E of Section 2525 . 6 --8 ( Audience participation.)9 MR. SCHLEIDER: -- an additional 10 adjustment for rent stabilized apartments sublet,  a11 10 % increase.12 ( Audience participation.)13 MR. SCHLEIDER:	For loft units,14 for renewal leases commencing on or after  October 15 1 st, 2010 and on or before September 30 th, 2011 , 16	4 . 25 %.17 ( Audience participation.)18 MR. SCHLEIDER:	For a two- year 19 increase period commencing on or after October 1 st,20 2010 and on or before September 30 th, 2011 , 8 . 5 %21 percent with a 10 % vacancy  allowance.22 ( Audience participation.)23 MR. SCHLEIDER:	For dwelling units 24 subject to the rent stabilization laws on  September 25 30 th, 2010 , which become vacant after September 17 </td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">2 30 th, 2010 special guideline, fair market rental 3 150 percent, to get a 60 percent prevailing  rent 4 adjustment.5 ( Audience participation.)6 MR. SCHLEIDER: And under Order 3 a,7 which became decontrolled after September 30 th,8 2010 , fair market rent increase to at least 125 9 percent to get to a 50 % prevailing rent  adjustment.10 ( Audience participation.)11 MR. SCHLEIDER:	Thank you, Mr.12 Chairman.13 ( Audience participation.)14 CHAIRMAN KIMMEL:	Thank you, Mr.15 Schleider.16 MS. CRUZ:	Mr. Chair, I17 second his motion.18 CHAIRMAN KIMMEL:	Is there a19 second?20 ( Audience participation.)21 MS. CRUZ: I second his 22 motion.23 CHAIRMAN KIMMEL:	Thank you, Ms.24 Cruz.25 Ms. Cruz has seconded that  motion.2 </td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">3 CHAIRMAN KIMMEL:	Call for a vote?4 Ms. Adams.5 MS. ADAMS:	Mr. Chairman, in the 6 same way that the previous motion was too small  --7 in the same way that the previous motion was  too 8 small, I think this one is too  large.9 I vote no.10 CHAIRMAN KIMMEL:	Ms. Adams votes 11 no.12 ( Applause.)13 CHAIRMAN KIMMEL:	Ms. Cruz.14 MS. CRUZ:	Yes.15 CHAIRMAN KIMMEL:	Ms. Cruz votes 16 yes.17 Ms. Holder.18 MS. HOLDER:	Just a couple of 19 points.20 Mr. Schleider outlined the process 21 as it stands now, the information that’ s come 22 before us and detailed the economic reality.  He 23 also, rightfully so, stated the realities of  things 24 that are going on in different counties. It is  true 25 what he says about property taxes here in New  York 3 </td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">2	City.3</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">But the same way that  property </td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">4 taxes are an issue in New York City, the same   way 5 that the loss of subsidies or the inability to  get 6 subsidies for low income tenants who live  in 7 housing in New York City is scarce and  difficult.8 These are all issues that everyone tells us and  we 9 know, are issues that the City takes up or that   the 10 State takes up.11 And I would just suggest, the  same 12 way that tenants are told every year that we  should 13 go speak to legislators or we should continue  to 14 work with groups such as the Legal Aid Society  and 15 other community- based organizations to get things 16 for tenants and to realize some type of fairness  in 17 the process, I would also suggest that there  are 18 things that happen with owners&#39; expenses that  need 19 to be taken up by  government.20 And what I think is most  important 21 for us to realize is that we are a part of   this 22 process. We are a part of the process  that 23 continues to burden tenants. And so again,  not 24 taking ourselves out of it and not saying that  we 25 should not be held to the same standard, but  just 4 </td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">2 like the politicians that come before us that  we 3 would like to hold accountable, and just  like 4 Albany and what goes on there that we’ d like to  see 5 real reform and change, I say to this board that   we 6 need to be very conscientious and very  considerate 7 and thoughtful about what it is that we’ re doing 8 this year.9 The proposal made by my  colleague,10 Mr. Schleider is too high.11 I vote no.12 ( Audience participation.)13 MS. HOLDER:	And I would really 14 encourage all of us to think realistically  about 15 how this process should continue tonight.16 Thank you.17 ( Applause.)18 CHAIRMAN KIMMEL:	Ms. Holder 19 votes no.20 Mr. Languedoc.21 MR. LANGUEDOC:	No.22 ( Audience participation.)23 CHAIRMAN KIMMEL:	Mr. Languedoc 24 votes no.25 Ms. Levine.2 </td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">2MS. LEVINE:	No.3( Audience participation.)4CHAIRMAN KIMMEL:	Ms. Levine 5votes no.6Mr. Scheinberg.7MR. SCHEINBERG:	I vote no.8( Audience participation.)9CHAIRMAN KIMMEL:	Mr. Scheinberg 10votes no.11Mr. Schleider.12( Audience participation.)13MR. SCHLEIDER:	Yes.14CHAIRMAN KIMMEL:	Mr. Schleider 15votes yes.16Mr. Wenk.17MR. WENK:	No.18( Applause.)19CHAIRMAN KIMMEL:	Mr. Wenk votes 20no.21The Chair votes no.22( Applause.)23CHAIRMAN KIMMEL:	Motion fails 247 - 2 .25MS. LEVINE:	Mr. Chair, I would </td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">2 like to make a  proposal.3 CHAIRMAN KIMMEL:	Ms. Levine.4 MS. LEVINE:	In anticipation of 5 making this proposal, I have a statement that I’ d6 like to make.7 A VOICE:	( Inaudible.)8 MS. LEVINE:	I do, all of you.9 If one only read the first  few 10 pages of Gone With The Wind, one would be left   with 11 the belief that the South had trammeled  the 12 Northern invaders and prevailed conclusively in  The 13 War of Northern Aggression.14 For a naive witness to  these 15 proceedings, one would have an equally  strong 16 misunderstanding of where the power lies in  the 17 regulation and treatment of the housing  community 18 and how the inequities in our system  are 19 promulgated.20 After serving four years on  this 21 Board, I have a colossal sense of  accumulated 22 frustration from hearing testimony from  both 23 landlord and tenant groups. Tenants tell us  of 24 losing health benefits, freezing of their  Social 25 Security payment amounts, losing jobs or  enduring 2 </td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">2 wage freezes, and violations in their  buildings,3 and reflectively state that this economic  climate,4 whatever the “ this” is, is the worst they have  ever 5 seen and therefore there must be a rent  freeze.6 Landlords tell us their woeful 7 tales of aging buildings with higher  maintenance 8 costs, increases in taxes and water and  sewer 9 rents, and demonstrate how this board has failed  to 10 compensate them for their expenses over the  long 11 term.12 Most notably, however, public 13 officials, elected by all of you, who actually  have 14 the power to change the laws, come before us  each 15 year and cynically shift the burden of  tenant 16 affordability issues onto this body rather  than 17 showing any leadership and any  purposeful 18 meaningful reform.19 ( Applause.)20 MS. LEVINE:	Each group, it seems,21 testifies so as to create the impression that  the 22 power to alleviate each of the burdens that  you 23 suffer from lies in the hands of the members  of 24 this elite little group.	Not one of these groups 25 mentions any culpability they may have, or  even 2 </td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">2 offers to participate in a constructive  dialogue.3 As we began our deliberations  this 4 week, the Appellate Division of the New  York 5 Supreme Court handed down its judgment  upholding 6 the lower court’ s invalidation of the minimum rent 7 increases that we voted on and passed in 2008 and  8	2009 .9 ( Audience participation.)10 MS. LEVINE:	This Board proposed 11 the imposition of these increases as the result  of 12 mighty struggles to attempt to distinguish  among 13 the vast array of economic and housing  problems 14 presented to us in an effort to overcome  the 15 weaknesses of the “ one size fits all” response.16 Clearly, the judicial branch felt 17 differently.	Their interpretation of the  statute 18 is that we have only narrow authority to issue  a19 percentage guideline for the maximum increase  in 20 stabilized rents, that is, pick a number and  then 21 go home.22 This year, the rent stabilization 23 program lost the largest amount of units since  the 24 Rent Guidelines Board first started  formally 25 compiling this information into a report in 2003 .9 </td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">2 These losses are caused by a variety of  factors,3 including high rent/ vacancy decontrol, cooperative 4 and condominium conversion, expiration of 421 - a and 5 J- 51 benefits, substantial rehabilitation and other 6 causes.7 While we lament these losses, and 8 recognize the contribution of these losses to  the 9 ongoing housing emergency in New York  City,10 stopping this loss is far outside the purview  of 11 the nine members of this board.	Instead, the power 12 to change the laws precipitating those losses  lies 13 solely in the hands of the New York  State 14 Legislature.	And as long as rents remain   low,15 landlords will continue to be incentivized  to 16 convert their buildings to co- ops or condos.17 That’ s called a free market.18 ( Audience participation.)19 MS. LEVINE:	The impact of the 20 ongoing recession has hurt all of us and  all 21 constituencies.	One of the biggest consequences of 22 the Wall Street meltdown is a contraction of  the 23 tax base in New York City.	Nonetheless, money must 24 be found somewhere to pay the bills. Turning to  the 25 landlord community to plug the gap is the  political 2 </td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">2 equivalent of saying “ the butler did it.&quot;3 Accordingly, the New York City Council voted  in 4 10 . 1 percent increases in real estate taxes, the 5 second consecutive year of double digit  increases 6 and an increase of 12 . 9 percent for water and sewer 7 costs.8 And upon the heels of  such 9 increases, the Speaker and numerous members of  the 10 New York City Council came before this board  and 11 testified in favor of a rent freeze. The  statute 12 under which we operate expressly states the  taxes 13 and sewer and water rates are factors to  be 14 considered in determining the guidelines.15 From members of the body  imposing 16 these increases of landlords to then come here  and 17 tell us to ignore the statute and ignore the  impact 18 of the very increases that they imposed is not  only 19 disingenuous, it’ s an abdication of the 20 responsibilities they sought when running  for 21 office to serve the people of New York  City.22 ( Applause.)23 MS. LEVINE:	No one can be 24 squeezed in both cost and income and continue  to 25 provide the same services and  product.2 </td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">2 But on the other side we  have 3 heard testimony of increasing levels of 4 homelessness in New York City.	Those leaving 5 homeless shelters rarely find housing in  stabilized 6 units.	With no income to measure to quality  for 7 stabilized housing, people with incomes far  in 8 excess of meeting the benefits of  stabilization 9 remain in their units creating an  artificial 10 shortage.11 Tenants have been crying, “ open 12 your books” to landlord for years.	Perhaps it is 13 time for the Legislature to ask the same  question 14 of tenants, and those paying, perhaps, less than  20 15 or 25 percent of their income to lose the  benefit 16 of stabilized housing, not the unit from  the 17 system, but the individual tenant claim to  a18 subsidized rent.19 I do not believe that  seeking 20 solutions to the housing process should be  an 21 adversarial process, landlords vs. Tenants, elected 22 officials against the public, appointed board 23 members vs. The City Council.	In fact, the members 24 of this board work with each other in a   cooperative 25 spirit striving to find a solution within  the 2 </td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">2 narrow framework of the law. It is imperative  that 3 we look beyond this annual chimera of thinking  that 4 we can achieve a solution to the problems  of 5 landlords and tenants by arriving at the  right 6 number for rent increases. Both sides  have 7 maintained that any number that is not the  number 8 they choose will only exacerbate  the problem.	I9 agree.	But that is all we’ re empowered to do.	My 10 colleague, Betty Adams, said one number’ s too low,11 one number’ s too high.12 ( Audience participation.)13 MS. LEVINE:	This isn’ t the three 14 little bears and we’ re not Goldilocks.	I don’ t15 know that we’ re going to find a number that’ s just 16 right.17 ( Audience participation.)18 MS. LEVINE:	While we are 19 confident that the number we will arrive at is  the 20 best given the limited arena in which we operate,  I21 turn to those with the power to address the  wide 22 set of concerns to begin immediate action and  not 23 rest on blaming the Rent Guidelines Board  for 24 failing to fix that which it cannot  do.25 ( Audience participation.)2 </td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">2 MS. LEVINE: It is up to you,  the 3 State and City legislators that come before us  and 4 I implore you to create mechanisms  for:5 ( 1 ), expanding the access to 6 existing programs for tenants in need of  relief;7 ( 2 ) analyzing the longevity 8 problem which distorts rents by considering  an 9 income test for tenants under regulated  leases;10 ( Applause.)11 MS. LEVINE:	( 3 ), providing 12 meaningful incentives to owners to maintain  the 13 existing affordable housing stock;14 ( 4 ), creating new programs for 15 inducing owners to build new affordable  housing 16 units;17 ( 5 ), providing tax relief for you.18 Providing tax relief for landlord expenses such  as 19 compliance with lead paint laws, sidewalk  violation 20 impositions, new fuel changes that will benefit  our 21 community but nevertheless increase landlord costs.22 And I say, not capitalize over some arbitrary  use 23 for life figure, but expensed in the year in   which 24 those costs are incurred.25	( 6 ) --</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line"> 2 ( Audience participation.)3 MS. LEVINE:	I have called on the 4 legislature to do those items.5 ( 6 ), spreading the burden of 6 paying for affordable housing among taxpayers  so 7 that landlords do not bear a  disproportionate 8 burden by expanding housing credit programs for  the 9 most needy; and.10 ( 7 ), continuing the imposition of 11 serious sanctions and enforcing them  against 12 landlords with longstanding violations on  their 13 buildings.14 ( Audience participation.)15 MS. LEVINE:	Finally, in response 16 to accusations that this body is “ a sham,&quot; “ a17 circus sideshow,&quot; “ lacks objectivity” or that we 18 are in the pocket of the Mayor, as I sit here now,  19	--20 ( Audience participation.)21 MS. LEVINE:	-- I affirm to you 22 that I don’ t know what the final guideline is  going 23 to be. We have discussed it among ourselves  in 24 groups of two, three, and four  all week.	But we 25 have no agreement as of  this moment.	I have not 20 </td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">2 spoken with anyone about this other than the  eight 3 people to my right and left.	At the end of the 4 night, we will, for many of us, begrudgingly  agree 5 to some numbers.	None of us will feel  satisfied.6 None of us will feel that we have served  the 7 public.	None of us will feel that we  have 8 adequately addressed any other problems faced  by 9 anyone sitting in this audience tonight  --10 ( Audience participation.)11 MS. LEVINE:	-- or eagerly 12 watching NY 1 to --13 ( Audience participation.)14 MS. LEVINE: None of us will  feel 15 that we have adequately addressed any of  the 16 problems faced by anyone sitting in this  audience 17 tonight or eagerly watching NY 1 to see what is 18 happening to their rent or net operating income  in 19 the coming year. But that is all we’ re empowered to 20 do.	If you don’ t believe me, I refer you not   only 21 to the governing statute but to the Decision  and 22 Order of the Supreme Court, Appellate  Division,23 First Department, dated June 22 , 2010 in the matter 24 of Casado v. Markus.25 ( Audience participation.)2 </td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">2 MS. LEVINE:	Each year that I  have 3 been on this board, I have offered to work  on 4 meaningful legislative reform with tenant  groups,5 landlord groups, or to work with members of  the 6 City Council or State Legislature.7 To date, no one has ever taken  me 8 up on my offer.9 ( Audience participation.)10 MS. LEVINE:	Nevertheless, I urge 11 each person sitting in this room to speak to   the 12 people on the other side of the  room.13 ( Audience participation.)14 MS. LEVINE:	Look for the problems 15 that you can unite over to address.	Look for the 16 solutions that are mutually acceptable.	And then 17 turn to the people with the actual power to  address 18 them, your elected representatives, and  demand 19 substantive changes to the obsolete law under  which 20 we labor.21 ( Audience participation.)22 MS. LEVINE:	Only you have the 23 power to change the system. I hope that you  will 24 use your voices and be heard by the people who   can 25 do more than just listen.2 </td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">2 And with that I propose  increases 3 in the following amounts:4 1 . 75 % for a one- year lease and 5 3 . 75 % for a two- year lease.6 ( Audience participation.)7 CHAIRMAN KIMMEL:	Is there a8 second?9 MS. ADAMS:	I second, Mr. Chair.10 CHAIRMAN KIMMEL:	Ms. Adams 11 seconds the motion.12 MS. HOLDER:	Did she -- she 13 just did for the apartment increases.	I’ m sorry.14 MS. LEVINE:	I’ m off.	All right.15 CHAIRMAN KIMMEL:	Yeah.	We can 16 come back and do the other part after  this.17 Calling for a vote on Ms. Levine’ s18 motion.19 Ms. Adams.20 MS. ADAMS:	Mr. Chairman, I would 21 like to commend my colleague, Ms. Levine for  the 22 statement that she made.	Because I think it 23 summarizes the frustrations that many of  the 24 members of this board have felt, particularly  the 25 public members.2 </td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">2 And so I would just like  to 3 commend her on that.	And I vote yes.4 ( Audience participation.)5 CHAIRMAN KIMMEL:	Ms. Adams votes 6 yes.7 Ms. Cruz.8 MR. CRUZ:	Mr. Chair, I also share 9 in Ms. Adams&#39; admiration for Ms. Levine’ s10 statement.	I believe that the content of  her 11 statement is a very sound one. I agree  with 12 virtually all the statements that Ms. Levine  said.13 But I cannot agree with the proposed  guidelines 14 that she has made.15 And for that reason I vote  no.16 ( Applause.)17 CHAIRMAN KIMMEL:	Ms. Cruz votes 18 no.19 Ms. Holder.20 MS. HOLDER:	Pass.21 CHAIRMAN KIMMEL:	Ms. Holder 22 passes.23 Mr. Languedoc.24 MR. LANGUEDOC:	Mr. Chairman,25 I am steadfast in my belief that this is   an 2 </td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">2 appropriate year for there to be a rent freeze  --3 ( Audience participation.)4 MR. LANGUEDOC:	-- For the 5 reasons that I stated.	Nevertheless, I’ m going to 6 vote for the motion because I believe that the  only 7 way that the board can come to some kind  of 8 consensus and have the lowest possible  rent 9 increase is by supporting this  motion.10 And so I vote yes.11 ( Applause.)12 CHAIRMAN KIMMEL:	Mr. Languedoc 13 votes yes.14 Ms. Levine.15 MS. LEVINE:	Yes.16 CHAIRMAN KIMMEL:	Ms. Levine 17 votes yes.18 Mr. Scheinberg.19 MR. SCHEINBERG:	Well, I too echo 20 many of the sentiments of  Risa.21 I must vote no.22 CHAIRMAN KIMMEL:	Mr. Scheinberg 23 votes no.24 Mr. Schleider.25 ( Audience participation.)2 </td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">2 MR. SCHLEIDER:	I’ d like to thank 3 Risa for her statements. And I think that  she 4 deserves a round of applause for bringing  something 5 to light that many of us have thought through  but 6 have not articulated.7 ( Applause.)8 MR. SCHLEIDER: And I thank  you.9 ( Applause.)10 MR. SCHLEIDER:	No.11 CHAIRMAN KIMMEL:	Mr. Schleider 12 votes no.13 Mr. Wenk.14 MR. WENK:	I too agree with much 15 of what Ms. Levine has indicated in her  statement.16 VOICES: Can&#39; t hear you.17 MR. WENK:	I say I also agree  with 18 much of the sentiments that Ms. Levine made in   her 19 statement.	But I unfortunately will have to  vote 20 no.21 ( Audience participation.)22 CHAIRMAN KIMMEL:	Mr. Wenk votes 23 no.24 The Chair also agrees with  Ms.25 Levine and I want to thank you for those  remarks.2 </td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">2 But the Chair votes no.3 Ms. Holder.4 MS. HOLDER:	I just would like to 5 say that I really do appreciate what Risa said.  It 6 is true, and I would like everyone to know,  that 7 this board actually does talk to  each other.	We 8 don’ t agree on many, many issues.9 This has been one of the  most 10 frustrating years.	The last two years with the 11 supplemental increases were definitely very,  very 12 frustrating for so many of us on the board. I   know 13 that my colleagues thought that they  were 14 fashioning something creative.	Ron and I15 definitely thought that it was something that  was 16 illegal, which I documented in a memo to the   board 17 two years ago.18 ( Applause.)19 MS. HOLDER:	But definitely, but 20 definitely something that we did not think  was 21 warranted, regardless of the legality, was  not 22 warranted in terms of the philosophy behind  it.23 I do want folks to know, and  I24 want our constituency to know, that despite  the 25 fact that it looks as if this has not passed, I   am 2 </td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">2 voting yes. And I want folks to understand why.  We 3 have debated -- and I want it on the record --   that 4 we had talked about this as a board. It is   very 5 important to me that folks understand that Ron  and 6 I have been working very hard.	We understand 7 what’ s on the table. We understand what’ s at stake.8 This is a very difficult year for everyone not  just 9 with the economy, but also dealing with  the 10 realities of what’ s happening politically and with 11 Albany.12 I vote yes to this motion,  Chair.13 My colleague, Ms. Levine, I14 appreciate the discourse that we’ ve been able to 15 have this year, as a discourse we’ ve also been  able 16 to have with other public members.	Thank you for 17 your statement.	I don’ t agree with everything in 18 your statement Risa, but you know that that  would 19 not necessarily be the case.	But I do appreciate 20 your motion today. And I want folks to know  that 21 we’ re working very hard to try to figure something 22 out.	And Ron and I stand with you as we    continue 23 in this process.24 Thanks.25 ( Applause.)2 </td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line">23	yes.456789</td>
+      </tr>
+      <tr>
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">CHAIRMAN KIMMEL:	Ms. Holder votes Motion fails, 5 - 4 .Is there another motion?MS. ADAMS:	Yes.	Mr. Chair? CHAIRMAN KIMMEL:		Ms. Adams.MS. ADAMS:	I propose 2 and  4 . CHAIRMAN KIMMEL:	Ms. Adams </td>
+      </tr>
+      <tr>
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">10 proposes 2 percent for a one- year lease, 4  percent 11 for a two- year lease.12 ( Audience participation.)13 CHAIRMAN KIMMEL:	Ms. Adams, is 14 that for apartments and lofts?15 ( Audience participation.)16 CHAIRMAN KIMMEL:	Apartments and 17 lofts?18 MS. ADAMS:	Yes.19 CHAIRMAN KIMMEL:	For apartments 20 and lofts.21 Is there a second?22 MS. LEVINE:	Yes. I second it.23 CHAIRMAN KIMMEL:	Ms. Levine 24 seconds.25 ( Audience participation.)10 </td>
+      </tr>
+      <tr>
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">2CHAIRMAN KIMMEL:	Call for a3vote.4Ms. Adams.5MS. ADAMS:	Yes.6CHAIRMAN KIMMEL:	Ms. Adams votes 7yes.8Ms. Cruz.9MS. CRUZ:	I pass.10CHAIRMAN KIMMEL:	Ms. Cruz passes.11Ms. Holder.12MS. HOLDER:	Pass.13CHAIRMAN KIMMEL:	Ms. Holder 14passes.15Mr. Languedoc.16MR. LANGUEDOC:	Pass.17CHAIRMAN KIMMEL:	Mr. Languedoc 18passes.19Ms. Levine.20MS. LEVINE:	Takes a stand and 21votes yes.22CHAIRMAN KIMMEL:	Ms. Levine votes 23yes.24Mr. Scheinberg.25MR. SCHEINBERG:	I pass.</td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">2CHAIRMAN KIMMEL:	Mr. Scheinberg 3passes.4Mr. Schleider.5MR. SCHLEIDER:	Pass.6CHAIRMAN KIMMEL:	Mr. Schleider 7passes.8Mr. Wenk.9MR. WENK:	No.10CHAIRMAN KIMMEL:	Mr. Wenk votes 11no.12Ms. Cruz.13MS. CRUZ:	What does Mr. Kimmel 14vote?15CHAIRMAN KIMMEL:	Oh, I’ m sorry.16Mr. Kimmel votes no.17Ms. Cruz.18MS. CRUZ:	Chairman, I vote no.19CHAIRMAN KIMMEL:	Ms. Cruz votes 20no.21CHAIRMAN KIMMEL:	Ms. Holder.22MS. HOLDER:	I can count. And I23just want folks to know that I’ m so very sorry what 24we had to go through this year, but I’ m going to 25	have to vote yes with  this.</td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line">2( Audience participation.)3CHAIRMAN KIMMEL:	Ms. Holder votes 4yes.5Mr. Languedoc.6MR. LANGUEDOC:	This has been a7rough week.We’ ve worked very hard.8I vote yes.9CHAIRMAN KIMMEL:	Mr. Languedoc 10votes yes.11Mr. Scheinberg.12MR. SCHEINBERG:	I vote no.13CHAIRMAN KIMMEL:	Mr. Scheinberg 14votes no.15Mr. Schleider.16MR. SCHLEIDER:	No.17CHAIRMAN KIMMEL:	Mr. Schleider 18votes no.19Motion fails, 5 - 4 .</td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line">2021	recess.2223	motion.2425	recess --</td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line">MS. HOLDER:	I make a motion for  aMR. SCHEINBERG:	I second that CHAIRMAN KIMMEL:	We will </td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">23	call the vote.45</td>
+      </tr>
+      <tr>
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="LC82" class="blob-code blob-code-inner js-file-line">MS. HOLDER:	No, you have to CHAIRMAN KIMMEL:	Okay.MS. HOLDER:	I would like a  recess </td>
+      </tr>
+      <tr>
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">6 but the rules are you  --7 CHAIRMAN KIMMEL:	Set time or?8 MS. HOLDER:	I’ d like to move for 9 a 15 - minute recess.10 CHAIRMAN KIMMEL:	Fifteen- minute 11 recess.12 MS. HOLDER:	My colleague, Ron --13 CHAIRMAN KIMMEL:	Mr. Scheinberg 14 has seconded the motion?15 MR. SCHEINBERG:	Yes.16 CHAIRMAN KIMMEL:	I’ ll call the 17 vote on that.18 Ms. Adams, we are voting on  a19 15 - minute recess.20 MS. ADAMS:	Yes.21 CHAIRMAN KIMMEL:	Ms. Adams votes 22 yes.23 Ms. Cruz.24 MS. CRUZ:	No.25 CHAIRMAN KIMMEL:	Ms. Cruz votes 6 </td>
+      </tr>
+      <tr>
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">2no.3Ms. Holder.4MS. HOLDER:	Yes.5CHAIRMAN KIMMEL:	Ms. Holder 6votes yes.7Mr. Languedoc.8 MR. LANGUEDOC:	Yes.9 CHAIRMAN KIMMEL:	Mr. Languedoc 10votes yes.11Ms. Levine.12MS. LEVINE:	Yes.13CHAIRMAN KIMMEL:Ms. Levine votes 14yes.15Mr. Scheinberg.16MR. SCHEINBERG:Yes.17CHAIRMAN KIMMEL:Mr. Scheinberg 18votes yes.19Mr. Schleider.20MR. SCHLEIDER:No.21CHAIRMAN KIMMEL:Mr. Schleider 22votes no.23Mr. Wenk.24MR. WENK:	Yes.25CHAIRMAN KIMMEL:Mr. Wenk votes </td>
+      </tr>
+      <tr>
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">2	yes.34567	p. m.)89	the delay.101112	make a proposal?1314	Levine.15</td>
+      </tr>
+      <tr>
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">Chair votes yes.We are in recess by a vote of 7 - 2 . Fifteen- minute recess.( Recess taken 6 : 26 p. m. - 6 : 54 CHAIRMAN KIMMEL:	I apologize for I call this meeting back to order. MS. LEVINE:	Mr. Chair, may ICHAIRMAN KIMMEL:	Yes, Ms.MS. LEVINE:	Mr. Chair, I move to </td>
+      </tr>
+      <tr>
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line">16 adopt the language of Apartment and Loft Order  No.17 42 as read into the record at this meeting. And   I18 further move to adopt the explanatory statement  and 19 findings for Order 42 substantially in the  form 20 submitted by the staff to the board as of June  24 ,21 2010 and to be modified by the RGB staff after   this 22 meeting to reflect the adopted rental  adjustments.23 And finally, I move to adopt  the 24 following adjustments for rent stabilized 25 apartments and lofts:16 </td>
+      </tr>
+      <tr>
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">2 For APARTMENTS.3 Together with such further 4 adjustments as may be authorized by law, the  annual 5 adjustment for renewal leases for apartments  shall 6 be:7 For a one- year renewal lease 8 commencing on or after October 1 st, 2010 and on  or 9 before September 30 th, 2011 : 2 . 25 %.10 For a two- year renewal lease 11 commencing on or after October 1 , 2010 and on  or 12 before September 30 , 2011 : 4 . 5 %.13 ( Audience participation.)14 MS. LEVINE:	No vacancy allowance 15 is permitted except as provided by Sections 19  and 16 20 of the Rent Regulation Reform Act of 1997 .17 A sublet allowance of: 10 %.18 LOFTS.19 For lofts, for one- year increase 20 periods commencing on or after October 1 st, 2010 ,21 and on or before September 30 th, 2011 :	2 . 25 %.22 For two- year increase periods 23 commencing on or after October 1 st, 2010 , and on or 24 before September 30 th, 2011 :	4 . 5 %.25 SPECIAL GUIDELINE AND DECONTROLLED	2 </td>
+      </tr>
+      <tr>
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line">2	UNITS.3</td>
+      </tr>
+      <tr>
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">For dwelling units subject to  the </td>
+      </tr>
+      <tr>
+        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line">4 Rent and Rehabilitation Law on September 30 th,5 2010 , which become vacant after September 30 th,6 2010 , the special guidelines shall be the greater 7 of:8 ( 1 ) 50 % above the maximum base 9 rent or 10 ( 2 ) The Fair Market Rent for 11 existing housing as established by the  United 12 States Department of Housing and Urban  Development 13 ( HUD) for the New York City Primary Metropolitan 14 Statistical Area pursuant to Section 8 ( c)( 1 ) of the 15 United States Housing Act of 1937 ( 42 U. S. C.16 section 1937 f[ c][ 1 ]) ( sic) and 24 C. F. R. Part 888 ,17 with such Fair Market Rents to be adjusted  based 18 upon whether the tenant pays his or her own  gas 19 and/ or electric charges as part of his or her  rent 20 as such gas and/ or electric charges are accounted 21 for by the New York City Housing  Authority.22 Such HUD- determined Fair Market 23 Rents will be published in the Federal Register  to 24 take effect on October 1 , 2010 .25 To summarize, in accordance with 4 </td>
+      </tr>
+      <tr>
+        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line"> 2 my motion, you are voting on the adjustments  I3 proposed and the proposed language of the  order.4 MR. WENK:	You said --5 MS. LEVINE:	Sorry, 50 % above --6 I’ m sorry.	For the special guideline and 7 decontrolled units, it’ s 50 % above the maximum base 8 rent or the Fair Market Rent for existing  housing.9 MR. SCHLEIDER:	It&#39; s 150 % from 10 the maximum base.11 CHAIRMAN KIMMEL:	Is there a12 second?13 MS. CRUZ:	Mr. Chairman, 14	I’ d --15 CHAIRMAN KIMMEL:	Ms. Cruz.16 MS. CRUZ:	-- like to propose an 17 amendment to this motion, of a 10 percent  vacancy 18 allowance both for the apartments and for  the 19 lofts?20 MS. LEVINE:	No, I don’ t. Sorry.21 CHAIRMAN KIMMEL:	Is there a22 second to Ms. Levine’ s motion?23 MR. SCHLEIDER:	Then Mr. Chair --24 CHAIRMAN KIMMEL:	Oh, I’ m sorry,25 Mr. Schleider.15 </td>
+      </tr>
+      <tr>
+        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line">2 MR. SCHLEIDER:	Mr. Chair, I’ m3 confused. I don’ t remember hearing any sort of 4 vacancy allowance.5 MS. LEVINE:	I said no vacancy 6 allowance.7 MR. SCHLEIDER:	You did say no?8 CHAIRMAN KIMMEL:	Yes.9 MR. SCHLEIDER:	From both?	And 10 the lofts?11 MS. LEVINE:	Yes.12 CHAIRMAN KIMMEL:	Yes.13 MR. SCHLEIDER:	Then may I make a14 friendly amendment to have the one and two- year 15 lease renewal rates increased slightly to four  and 16 a half percent for the one- year and to --17 ( Audience participation.)18 MR. SCHLEIDER:	-- I’ m sorry.	I19 tried.	All right.20 two and a half percent for the  one 21 year and 4 . 75 % on the two- year.22 ( Audience participation.)23 MS. LEVINE:	I’ m sorry, Mr.24 Schleider, no.25 ( Audience participation.)2 </td>
+      </tr>
+      <tr>
+        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
+        <td id="LC96" class="blob-code blob-code-inner js-file-line">2 CHAIRMAN KIMMEL:	Ms. Levine, did 3 you reject that amendment?4 MS. LEVINE:	Yes.5 CHAIRMAN KIMMEL:	Is there a6 second to Ms. Levine’ s motion.7 MS. CRUZ:	I’ d like to do 8 just one last --9 CHAIRMAN KIMMEL:	Oh, I’ m sorry.10 Yes, Ms. Cruz.11 MS. CRUZ: -- proposed amendment  to 12 the vacancy allowance.13 I would like to propose a 5 %14 vacancy allowance both for the apartment and  for 15 the lofts. And this would not in any way  impact 16 people in occupancy right now.17 ( Audience participation.)18 MS. CRUZ: This is only upon  the 19 vacancy of the apartment.20 MS. LEVINE:	I’ m sorry, Ms. Cruz,21 no.22 ( Audience participation.)23 MS. LEVINE:	Okay.	I rejected it.24 CHAIRMAN KIMMEL:	Oh, okay.25 Once again -- Ms. Adams, you had  a2 </td>
+      </tr>
+      <tr>
+        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
+        <td id="LC97" class="blob-code blob-code-inner js-file-line">2 comment or did you want to second Ms. Levine’ s3 motion?4 MS. ADAMS:	I wanted to second 5 Ms. Levine’ s motion.6 CHAIRMAN KIMMEL:	Ms. Levine’ s7 motion has been seconded.8 Call a vote on Ms. Levine’ s9 motion.10 Ms. Levine’ s motion is two and a11 quarter percent for a one- year lease and four and  a12 half percent on a two- year lease.	No vacancy 13 allowance and everything else she said.14 Ms. Adams.15 MS. ADAMS:	Yes.16 CHAIRMAN KIMMEL:	Ms. Adams votes 17 yes.18 Ms. Cruz.19 MS. CRUZ:	No.20 CHAIRMAN KIMMEL:	Ms. Cruz votes 21 no.22 Ms. Holder.23 MS. HOLDER:	Pass.24 CHAIRMAN KIMMEL:	Ms. Holder 25 passes.2 </td>
+      </tr>
+      <tr>
+        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
+        <td id="LC98" class="blob-code blob-code-inner js-file-line">2 Mr. Languedoc.3 MR. LANGUEDOC:	Ladies and 4 gentlemen, I would not ordinarily vote for  this 5 motion, but I’ ve been in a lot of  communication 6 with my colleagues.	I see what the numbers  are.7 If I don’ t support this motion, it’ s going to go 8 higher.9 So I vote yes.10 CHAIRMAN KIMMEL:	Mr. Languedoc 11 votes yes.12 Ms. Levine.13 MS. LEVINE:	Yes.14 CHAIRMAN KIMMEL:	Ms. Levine 15 votes yes.16 Mr. Scheinberg.17 MR. SCHEINBERG:	I vote yes.18 CHAIRMAN KIMMEL:	Mr. Scheinberg 19 votes yes.20 Mr. Schleider.21 MR. SCHLEIDER:	No.22 ( Audience participation.)23 CHAIRMAN KIMMEL:	Mr. Schleider 24 votes no.25 Mr. Wenk.2 </td>
+      </tr>
+      <tr>
+        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
+        <td id="LC99" class="blob-code blob-code-inner js-file-line">2 MR. WENK:	Pass.3 CHAIRMAN KIMMEL:	Mr. Wenk passes.4 Ms. Holder.5 Oh, I’ m sorry.	Chair passes.6 Ms. Holder.7 MS. HOLDER:	Yes. For all the 8 reasons that my colleague said before. I know  this 9 is going to have an impact on the tenants and  I’ m10 so sorry, but I’ m very concerned with what’ s going 11 to happen with your rents this year. I think  this 12 is the best that we can be able to do this   year.13 I vote yes.14 ( Applause.)15 CHAIRMAN KIMMEL:	Ms. Holder 16 votes yes.17 Mr. Wenk.18 MR. WENK:	Yes.19 CHAIRMAN KIMMEL:	Mr. Wenk votes 20 yes.21 Before I cast my vote, I  would 22 like to make a brief  statement.23 Each year this board is  required 24 to set renewal lease adjustments for hundreds  of 25 thousands of rent stabilized apartments  throughout 2 </td>
+      </tr>
+      <tr>
+        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
+        <td id="LC100" class="blob-code blob-code-inner js-file-line">2 New York City. As Chair and a public member,  I3 recognize the importance of considering all  the 4 housing data presented to this board by the  Rent 5 Guidelines Board staff, housing experts and 6 government agencies.7 Serious consideration is also 8 given to public testimony of tenants, owners  and 9 public officials, which I believe helps the  board 10 realize the issues faced by those affected by  the 11 decisions of this board.	Each group brings valued 12 concerns and arguments before us. Therefore, I  find 13 it necessary to balance the needs of both  tenants 14 and owners when setting renewal lease  adjustments.15 In analyzing data presented to 16 this board, it is clear to me that costs related   to 17 running multi- family buildings have risen in the 18 past year.	In particular, owners have witnessed 19 double digit increases in real estate taxes  and 20 water and sewer rates. I also acknowledge  that 21 significant factors such as high unemployment  rates 22 and stagnant wages have impacted tenants’  abilities 23 to pay their rents. The current recession  has 24 impacted both owners and tenants alike.25 It is clear that a2 </td>
+      </tr>
+      <tr>
+        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
+        <td id="LC101" class="blob-code blob-code-inner js-file-line"> 2 one- size- fits- all approach to setting rental 3 adjustments does not meet the various and  diverse 4 needs of all affected, but it is the  constraint 5 under which this board must operate.6 After considering the commensurate 7 rent adjustments calculated by the RGB staff,  and 8 balancing these calculations with relevant data 9 regarding housing affordability, I vote  yes.10 Motion passes, 7 - 2 .11 We’ ll take a five- minute recess.12 ( Recess taken, 7 : 10 p. m. - 7 : 21 13	p. m.)14 CHAIRMAN KIMMEL:	Ladies and 15 gentlemen, I’ d like to call this meeting back to 16 order.17 Please bear with me as I read  the 18 language of the 2010 Hotel Order 40 .19 Order Number 40 - Hotels,  Rooming 20 Houses, Single Room Occupancy Buildings and  Lodging 21 Houses. Rent levels to be effective for  leases 22 commencing October 1 , 2010 through September 30 ,23	2011 .24 NOTICE IS HEREBY GIVEN PURSUANT TO 25 THE AUTHORITY VESTED IN THE NEW YORK CITY  RENT 24 </td>
+      </tr>
+      <tr>
+        <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
+        <td id="LC102" class="blob-code blob-code-inner js-file-line"> 2 GUIDELINES BOARD BY THE RENT STABILIZATION LAW  OF 3 1969 , as amended, and the Emergency Tenant 4 Protection Act of 1974 , as amended, implemented by 5 Resolution No. 276 of 1974 of the New York  City 6 Council and extended by Chapter 82 of the Laws  of 7 2003 , and in accordance with the requirements of 8 Section 1043 of the New York City Charter, that  the 9 Rent Guidelines Board hereby adopts the  following 10 levels of fair rent increases over lawful  rents 11 charged and paid on September 30 , 2010 .12 APPLICABILITY.13 This order shall apply to units  in 14 buildings subject to the Hotel Section of the  Rent 15 Stabilization Law ( Sections 26 - 504 ( c) and 26 - 506 of 16 the N. Y. C. Administrative Code), as amended, or the 17 Emergency Tenant Protection Act of 1974 ( c. 576 18	L. 1974 § 4 [§ 5 ( a)( 7 )]).19 With respect to any tenant who  has 20 no lease or rental agreement, the level of  rent 21 increase established herein shall be effective  as 22 of one year from the date of the tenant’ s23 commencing occupancy, or as of one year from  the 24 date of the last rent adjustment charged to  the 25 tenant, or as of October 1 , 2010 , whichever is 19 </td>
+      </tr>
+      <tr>
+        <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
+        <td id="LC103" class="blob-code blob-code-inner js-file-line">2 later.	This anniversary date will also serve  as 3 the effective date for all subsequent  Rent 4 Guidelines Board Hotel Orders unless the  Board 5 shall specifically provide otherwise in the  Order.6 Where a lease or rental  agreement 7 is in effect, this Order shall govern the  rent 8 increase applicable on or after October 1 , 2010 9 upon expiration of such lease or rental  agreement,10 but in no event prior to one year from  the 11 commencement date of the expiring lease unless  the 12 parties have contracted to be bound by  the 13 effective date of this Order.14 RENT GUIDELINES FOR HOTELS,	15 ROOMING HOUSES, SINGLE ROOM OCCUPANCY BUILDINGS  AND	16 LODGING HOTELS.17 Pursuant to its mandate to 18 promulgate rent adjustments for hotel units  subject 19 to the Rent Stabilization Law of 1969 , as  amended,20 (§ 26 - 501 ( e) ( sic) of the N. Y. C. Administrative 21 Code) the Rent Guidelines Board hereby adopts  the 22 following rent adjustments:23 The allowable level of rent 24 adjustment over the lawful rent actually  charged 25 and paid on September 30 th, 2010 :2 </td>
+      </tr>
+      <tr>
+        <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
+        <td id="LC104" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
+        <td id="LC105" class="blob-code blob-code-inner js-file-line">23	hotels, blank %.451) </td>
+      </tr>
+      <tr>
+        <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
+        <td id="LC106" class="blob-code blob-code-inner js-file-line">) Residential Class A  apartment 2) ) Lodging houses, blank %. 3 ) Rooming houses ( Class B1) </td>
+      </tr>
+      <tr>
+        <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
+        <td id="LC107" class="blob-code blob-code-inner js-file-line">6 buildings containing less than 30 units, blank  %.7 4 ) Class B hotels, blank%.8 5 ) Single Room Occupancy 9 buildings( MDL section 248 SRO’ s) blank %.10 NEW TENANCIES.11 Blank “ vacancy allowance” is 12 permitted under this order.13 ADDITIONAL CHARGES.14 It is expressly understood that 15 the rents collectible under the terms of this  Order 16 are intended to compensate in full for all  services 17 provided without extra charge on the statutory  date 18 for the particular hotel dwelling unit or at  the 19 commencement of the tenancy if subsequent  thereto.20 No additional charges may be made to a tenant  for 21 such services, however such charges may be  called 22 or identified.23 STATEMENT OF BASIS AND PURPOSE.24 The Rent Guidelines Board is 25 authorized to promulgate rent guidelines  governing 6 </td>
+      </tr>
+      <tr>
+        <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
+        <td id="LC108" class="blob-code blob-code-inner js-file-line"> 2 hotel units subject to the Rent Stabilization  Law 3 of 1969 , as amended, and the Emergency Tenant 4 Protection Act of 1974 , as amended. The purpose of 5 these guidelines is to implement the public  policy 6 set forth in Findings and Declaration of  Emergency 7 of the Rent Stabilization Law of 1969 (§ 26 - 501 of 8 the N. Y. C. Administrative Code) and in the 9 Legislative Finding contained in the  Emergency 10 Tenant Protection Act of 1974 ( c. 576 L. 1974 ,§ 4 11	[§ 2 ].)12 Having read that, is there  a13 motion?14 Ms. Adams.15 MS. ADAMS:	Mr. Chairman, I move 16 to adopt the language of Hotel Order # 40 as  read 17 into the record at this meeting. And I further  move 18 to adopt the Explanatory Statement and Findings  for 19 Order # 40 substantially in the form submitted by 20 staff to the board as of June the 24 th, 2010 , and 21 to be modified by the Rent Guidelines Board  staff 22 after this meeting to reflect the adopted  rental 23 adjustments.24 And finally, I move to adopt  the 25 following rental adjustments for rent  stabilized 12 </td>
+      </tr>
+      <tr>
+        <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
+        <td id="LC109" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
+        <td id="LC110" class="blob-code blob-code-inner js-file-line">2	hotels.3</td>
+      </tr>
+      <tr>
+        <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
+        <td id="LC111" class="blob-code blob-code-inner js-file-line">The allowable level for rent </td>
+      </tr>
+      <tr>
+        <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
+        <td id="LC112" class="blob-code blob-code-inner js-file-line">4 adjustment over the lawfully rent actually  charged 5 and paid on September 30 th, 2010 , shall be:6 1 ) Residential Class A ( apartment)7 hotels, zero %.8 2 ) Lodging houses, zero%.9 3 ) Rooming houses ( which is Class 10 B buildings containing less than 30 units, zero  %.11 4 ) Class B hotels, zero %.12 5 ) Single Room Occupancy 13 buildings, zero %.14 To summarize, in accordance with 15 my motion, you are voting on the adjustments  I16 proposed, the language of the order and  the 17 Explanatory Statement and Findings for this  order.18 ( Applause.)19 CHAIRMAN KIMMEL:	Thank you, Ms.20 Adams.21 Is there a second?22 MR. SCHEINBERG:	I second that.23 CHAIRMAN KIMMEL:	Mr. Scheinberg 24 seconds.25 Call a vote.4 </td>
+      </tr>
+      <tr>
+        <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
+        <td id="LC113" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
+        <td id="LC114" class="blob-code blob-code-inner js-file-line">2345	yes.67</td>
+      </tr>
+      <tr>
+        <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
+        <td id="LC115" class="blob-code blob-code-inner js-file-line">Ms. Adams.Ms. Adams:	Yes.CHAIRMAN KIMMEL:	Ms. Adams votes CHAIRMAN KIMMEL:	Ms. Cruz.MS. CRUZ:	Mr. Chairman, I just </td>
+      </tr>
+      <tr>
+        <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
+        <td id="LC116" class="blob-code blob-code-inner js-file-line">8 wanted to make a few remarks for the  record.9 This is the second year that  zero 10 guidelines have been enacted for  hotels.11 ( Applause.)12 MS. CRUZ:	This is in light of  the 13 fact that the staff has reported to us that  the 14 Price Index ratio has gone up by 3 . 9 percent.15 Taxes for these types of properties have gone up  by 16 13 . 5 percent. This is in contrast to the real 17 estate taxes that are charged as to  apartments,18 which went up 10 . 1 percent.19 My belief is that to enact a  zero 20 percent guideline increase for a property,  is 21 sending the message that these types of  properties 22 are not to be developed, are to be gradually  phased 23 out so that the interests of the tenants  that 24 occupy these units are, in fact, counteracted  by 25 enacting a zero guidelines.8 </td>
+      </tr>
+      <tr>
+        <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
+        <td id="LC117" class="blob-code blob-code-inner js-file-line">2 And I very vehemently oppose  the 3 enactment of this proposal and for that reason  I4 vote no.5 CHAIRMAN KIMMEL:	Ms. Cruz votes 6 no.7 Ms. Holder.8 MS. HOLDER:	This is one area 9 where I do feel that the tenants  are heard.	We 10 also know that the landlords are nowhere to  be 11 found.12 I applaud the advocates, the  work 13 that you all do, to try to maintain this  housing 14 for the lowest income tenants that we have in  the 15 City.	This is the housing of last resort.  I16 applaud you, because you all have done a great  job.17 I applaud the tenants who continue to live in   that 18 housing and trying to make their communities  better 19 who have already made a great investment in  their 20 communities throughout New York.21 I vote yes for this motion and I’ m22 so glad that you were  heard.23 ( Applause.)24 CHAIRMAN KIMMEL:	Ms. Holder 25 votes yes.2 </td>
+      </tr>
+      <tr>
+        <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
+        <td id="LC118" class="blob-code blob-code-inner js-file-line">2Mr. Languedoc.3MR. LANGUEDOC:	Yes.4CHAIRMAN KIMMEL:	Mr. Languedoc 5votes yes.6Ms. Levine.7MS. LEVINE:	Yes.8CHAIRMAN KIMMEL:	Ms. Levine 9votes yes.10Mr. Scheinberg.11MR. SCHEINBERG:	Yes.12CHAIRMAN KIMMEL:	Mr. Scheinberg 13votes yes.14Mr. Schleider.15MR. SCHLEIDER:	I too would like 16 to echo the sentiments of the hard work that  the 17 advocates do for this form of housing. But I am   a18 little dismayed that reference made to owners  of 19 this type of property not showing up may  be 20 interpreted as giving those owners less of  an 21 opportunity to have their realities in terms  of 22 operating expenses heard or considered.23 I know the Chair has made  mention 24 that just because these owners don’ t show up en 25 masse as tenants do, that they are, in fact,  being 16 </td>
+      </tr>
+      <tr>
+        <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
+        <td id="LC119" class="blob-code blob-code-inner js-file-line">2 treated with fairly. So I’ d like to believe that 3 they are being treated with  fairly.4 However, out of the past 15  years,5 9 years have had a zero  percent increase.	So I6 concur with my colleague that it’ s sending a7 message that the board or the process doesn’ t8 provide enough assistance to these owners to  entice 9 them to keep these units in  place.10 And for that matter, I have  to 11 vote against this. I have to vote  no.12 CHAIRMAN KIMMEL:	Mr. Schleider 13 votes no.14 Mr. Wenk.15 MR. WENK:	Yes.16 CHAIRMAN KIMMEL:	Mr. Wenk votes 17 yes.18 The Chair votes yes.19 Motion passes, 7 - 2 .20 ( Applause.)21 CHAIRMAN KIMMEL:	That having 22 concluded the business of this board, I do want  to 23 thank my fellow board members for all of  their 24 efforts through this. It’ s been a difficult process 25 this year, my first year as  Chair.2 </td>
+      </tr>
+      <tr>
+        <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
+        <td id="LC120" class="blob-code blob-code-inner js-file-line">2 Is there a motion -- and I do  want 3 to thank everybody and the members of the  public 4 who came in to testify.5 MS. HOLDER:	Before we 6 adjourn	--7 CHAIRMAN KIMMEL:	Oh, I’ m sorry.8 Yes, Ms. Holder.9 MS. HOLDER:	Yes.	I would 10 actually like to ask that this board resume what  I11 think was done maybe two or three years ago,  where 12 we actually have an interim meeting, perhaps  in 13 September or October of this year, to perhaps  think 14 about other types of data that we would like  to 15 bring before, perhaps think about other types  of 16 witnesses that we’ d like to have before it.	Just 17 an organizing and planning meeting with the  staff 18 and the board for the public to come to, but   I19 would like to suggest that, I would hope that  my 20 colleagues would support such a meeting in  the 21 fall.22 CHAIRMAN KIMMEL:	Ms. Holder, I23 think that is an excellent idea and we will  discuss 24 it and look forward to that. And then we don’ t  have 25 to wait that long to see each other again  either.2 </td>
+      </tr>
+      <tr>
+        <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
+        <td id="LC121" class="blob-code blob-code-inner js-file-line"></td>
+      </tr>
+      <tr>
+        <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
+        <td id="LC122" class="blob-code blob-code-inner js-file-line">234567	Scheinberg.89101112	were concluded.)</td>
+      </tr>
+      <tr>
+        <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
+        <td id="LC123" class="blob-code blob-code-inner js-file-line">Is there a motion to adjourn? MS. LEVINE:	Yes, there is. CHAIRMAN KIMMEL:		Ms. Levine. MR. SCHEINBERG:	I Second.CHAIRMAN KIMMEL:	Seconded by Mr.This meeting is adjourned. Thank    you,    everyone. ( Applause.)( At 7 : 34 p. m., the proceedings </td>
+      </tr>
+      <tr>
+        <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
+        <td id="LC124" class="blob-code blob-code-inner js-file-line">*	*	*	*</td>
+      </tr>
+      <tr>
+        <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
+        <td id="LC125" class="blob-code blob-code-inner js-file-line">2	C E R T I F I C A T I O N 34 STATE OF NEW YORK	)5 SS.6 COUNTY OF NEW YORK ) 789	I, MARC RUSSO, a  Shorthand 10 ( Stenotype) Reporter and Notary 11 Public within and for the State  of 12 New York, do hereby certify that  the 13 foregoing pages 1 through 82  taken 14 at the time and place aforesaid,  is 15 a true and correct transcription  of 16 my shorthand notes.17 IN WITNESS WHEREOF, I  have 18 hereunto set my name this 7 th day 19 of July, 2010 .20	______	21	MARC RUSSO 22232425</td>
+      </tr>
+</table>
+
+  <div class="BlobToolbar position-absolute js-file-line-actions dropdown js-menu-container js-select-menu d-none" aria-hidden="true">
+    <button class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1 dropdown-toggle js-menu-target" id="js-file-line-action-button" type="button" aria-expanded="false" aria-haspopup="true" aria-label="Inline file action toolbar" aria-controls="inline-file-actions">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 13 16" version="1.1" width="13" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm5 0a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3z"/></svg>
+    </button>
+    <div class="dropdown-menu-content js-menu-content" id="inline-file-actions">
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2">
+        <li><clipboard-copy class="dropdown-item" style="cursor:pointer;" id="js-copy-lines" data-original-text="Copy lines">Copy lines</clipboard-copy></li>
+        <li><clipboard-copy class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" data-original-text="Copy permalink">Copy permalink</clipboard-copy></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" href="/lydiahsu/Intro-Data-Science-Fall-2017/blame/e1fb5960e035e4dd1a0cc0a1fb3bc3ce0ed54cf2/text_data/txt/2010-06-24.txt">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" href="/lydiahsu/Intro-Data-Science-Fall-2017/issues/new">Open new issue</a></li>
+      </ul>
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+
+  <button type="button" data-facebox="#jump-to-line" data-facebox-class="linejump" data-hotkey="l" class="d-none">Jump to Line</button>
+  <div id="jump-to-line" style="display:none">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form" action="" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+      <input class="form-control linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
+      <button type="submit" class="btn">Go</button>
+</form>  </div>
+
+
+  </div>
+  <div class="modal-backdrop js-touch-events"></div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+      
+<div class="footer container-lg px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2018 <span title="0.37172s from unicorn-2117364336-cf2fl">GitHub</span>, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li class="mr-3"><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li class="mr-3"><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+    </button>
+    You can't perform that action at this time.
+  </div>
+
+
+    
+    <script crossorigin="anonymous" integrity="sha512-gjdIIVyOYA3UaabSuKCQHZdLt84lLmROa87xIM/thAc9y+lnj7RHokXdWafFS0scIQFO9PQ5sGNXG0+MLRhw+Q==" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-c47d34e9e8c79abd667b6a6a0ff26e7b.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-QoRSvLZ8gKtFbqZVGgdrfbouqZxmsKQnXe3pFtFd1ZtfoJIVsRTLnhFI26PW/5ts/4Rrsf8jssqJCNVYCsCp7A==" type="application/javascript" src="https://assets-cdn.github.com/assets/github-d19623a69cc756b5a2cbda89154a69e9.js"></script>
+    
+    
+    
+    
+  <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner d-none">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.865 1.52c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h-2v-2h2v2zm0-3h-2V6h2v4z"/></svg>
+    <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <div class="facebox" id="facebox" style="display:none;">
+  <div class="facebox-popup">
+    <div class="facebox-content" role="dialog" aria-labelledby="facebox-header" aria-describedby="facebox-description">
+    </div>
+    <button type="button" class="facebox-close js-facebox-close" aria-label="Close modal">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"/></svg>
+    </button>
+  </div>
+</div>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+<div id="hovercard-aria-description" class="sr-only">
+  Press h to open a hovercard with more details.
+</div>
+
+
+  </body>
+</html>
+
